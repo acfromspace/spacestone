@@ -1,23 +1,18 @@
-import React from 'react'
+import React from "react";
 
-import profilePic from './profile-pic.jpg'
+// Image will come from here
+import profilePic from "./profile-pic.jpg";
 
 class Bio extends React.Component {
   render() {
     return (
       <p>
-        <img
-          src={profilePic}
-          alt={`Kyle Mathews`}
-        />
-        Written by <strong>Kyle Mathews</strong> who lives and works in San
-        Francisco building useful things.{' '}
-        <a href="https://twitter.com/kylemathews">
-          You should follow him on Twitter
-        </a>
+        <img src={profilePic} alt={`Kyle Mathews`} />
+        Blog run by <strong>AC De Leon</strong>.{" "}
+        <a href="acfromspace.github.io">ALL LINKS SHOULD GO HERE BITCH</a>
       </p>
-    )
+    );
   }
 }
 
-export default Bio
+export default Bio;
