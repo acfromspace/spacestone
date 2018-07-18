@@ -13,7 +13,7 @@
     "url": "https://github.com/acfromspace/github.io"
   },
   "scripts": {
-    "_comment": "To run these scripts use npm run SCRIPT_NAME",
+    "_comment": "To run these scripts use npm run SCRIPT_NAME, to exit develop process, CTRL + C",
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
