@@ -1,0 +1,2410 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "51c5d527c2d3c3cfa0bb5c1757e1b144",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c0867e57b4832da773f229bb3500b4a9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "7e8dc038f449b1d6c07e28e780f844f0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "13a012961ec0e326cf73c05302ea60bc",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "fd8c7c889e6621f38d622e59a86f85b0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\gatsbywebsite/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "0fd9b0049b6e50e01dcb200510c35ce7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.40",
+      "pluginOptions": {
+        "plugins": [
+          {
+            "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-images",
+            "id": "Plugin gatsby-remark-images",
+            "name": "gatsby-remark-images",
+            "version": "1.5.61",
+            "pluginOptions": {
+              "plugins": [],
+              "maxWidth": 590,
+              "wrapperStyle": "",
+              "backgroundColor": "white",
+              "linkImagesToOriginal": true,
+              "showCaptions": false,
+              "pathPrefix": ""
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-images"
+          },
+          {
+            "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-responsive-iframe",
+            "id": "Plugin gatsby-remark-responsive-iframe",
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "1.4.18",
+            "pluginOptions": {
+              "plugins": [],
+              "wrapperStyle": "margin-bottom: 1.0725rem"
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-responsive-iframe"
+          },
+          {
+            "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-prismjs",
+            "id": "Plugin gatsby-remark-prismjs",
+            "name": "gatsby-remark-prismjs",
+            "version": "1.2.24",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-prismjs"
+          },
+          {
+            "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-copy-linked-files",
+            "id": "Plugin gatsby-remark-copy-linked-files",
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "1.5.31",
+            "pluginOptions": {
+              "plugins": [],
+              "ignoreFileExtensions": [
+                "png",
+                "jpg",
+                "jpeg",
+                "bmp",
+                "tiff"
+              ]
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-copy-linked-files"
+          },
+          {
+            "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-smartypants",
+            "id": "Plugin gatsby-remark-smartypants",
+            "name": "gatsby-remark-smartypants",
+            "version": "1.4.12",
+            "pluginOptions": {
+              "plugins": []
+            },
+            "nodeAPIs": [],
+            "browserAPIs": [],
+            "ssrAPIs": [],
+            "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-smartypants"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.40",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4ddf55b9b9a7bf914594118a710074c3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-images": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-images",
+      "id": "Plugin gatsby-remark-images",
+      "name": "gatsby-remark-images",
+      "version": "1.5.61",
+      "pluginOptions": {
+        "plugins": [],
+        "maxWidth": 590,
+        "wrapperStyle": "",
+        "backgroundColor": "white",
+        "linkImagesToOriginal": true,
+        "showCaptions": false,
+        "pathPrefix": ""
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-images",
+      "packageJson": {
+        "name": "gatsby-remark-images",
+        "description": "Processes images in markdown so they can be used in the production build.",
+        "version": "1.5.61",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "markdown",
+          "remark",
+          "responsive images"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.42"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "146568d3901c5be44d4f4f211dd876e1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-responsive-iframe": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-responsive-iframe",
+      "id": "Plugin gatsby-remark-responsive-iframe",
+      "name": "gatsby-remark-responsive-iframe",
+      "version": "1.4.18",
+      "pluginOptions": {
+        "plugins": [],
+        "wrapperStyle": "margin-bottom: 1.0725rem"
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-responsive-iframe",
+      "packageJson": {
+        "name": "gatsby-remark-responsive-iframe",
+        "description": "Make iframes in Markdown processed by Remark responsive",
+        "version": "1.4.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "unist-util-find",
+            "version": "^1.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e320840f85ce513febf47bedaf86b244",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-prismjs": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-prismjs",
+      "id": "Plugin gatsby-remark-prismjs",
+      "name": "gatsby-remark-prismjs",
+      "version": "1.2.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-prismjs",
+      "packageJson": {
+        "name": "gatsby-remark-prismjs",
+        "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
+        "version": "1.2.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "parse-numeric-range",
+            "version": "0.0.2"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.12.2"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.3"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e5260a3d5f539d24735648052c441dbe",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-copy-linked-files": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-copy-linked-files",
+      "id": "Plugin gatsby-remark-copy-linked-files",
+      "name": "gatsby-remark-copy-linked-files",
+      "version": "1.5.31",
+      "pluginOptions": {
+        "plugins": [],
+        "ignoreFileExtensions": [
+          "png",
+          "jpg",
+          "jpeg",
+          "bmp",
+          "tiff"
+        ]
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-copy-linked-files",
+      "packageJson": {
+        "name": "gatsby-remark-copy-linked-files",
+        "description": "Find files which are linked to from markdown and copy them to the public directory",
+        "version": "1.5.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "prismjs",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cheerio",
+            "version": "^1.0.0-rc.2"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "is-relative-url",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "path-is-inside",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "efb88ce9b7ce514cb815b4b174ba1e1b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-remark-smartypants": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-smartypants",
+      "id": "Plugin gatsby-remark-smartypants",
+      "name": "gatsby-remark-smartypants",
+      "version": "1.4.12",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-remark-smartypants",
+      "packageJson": {
+        "name": "gatsby-remark-smartypants",
+        "description": "Use retext-smartypants to auto-enhance typography of markdown",
+        "version": "1.4.12",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "smartypants"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "retext",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-smartypants",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "10264d55836eee1335cb6d07e12aac78",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.22",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^3.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bf9dba9f43f22f803cbf58218e49a7e5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.48",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.48",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cde3df05ef313612482372a6c3efdbb2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.29",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.29",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ef94cb20b705ddeeca1ba0d777219183",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-feed": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-feed",
+      "id": "Plugin gatsby-plugin-feed",
+      "name": "gatsby-plugin-feed",
+      "version": "1.3.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-feed",
+      "packageJson": {
+        "name": "gatsby-plugin-feed",
+        "description": "Creates an RSS feed for your Gatsby site.",
+        "version": "1.3.20",
+        "main": "index.js",
+        "keywords": [
+          "atom",
+          "feed",
+          "gatsby",
+          "gatsby-plugin",
+          "rss"
+        ],
+        "author": {
+          "name": "Nicholas Young",
+          "email": "nicholas@nicholaswyoung.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "lodash.merge",
+            "version": "^4.6.0"
+          },
+          {
+            "name": "pify",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "rss",
+            "version": "^1.2.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "29325a2f11168701baf096a130c310fb",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-offline": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-offline",
+      "id": "Plugin gatsby-plugin-offline",
+      "name": "gatsby-plugin-offline",
+      "version": "1.0.15",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onPostBuild"
+      ],
+      "browserAPIs": [
+        "registerServiceWorker"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-offline",
+      "packageJson": {
+        "name": "gatsby-plugin-offline",
+        "description": "Gatsby plugin which sets up a site to be able to run offline",
+        "version": "1.0.15",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "offline",
+          "precache",
+          "service-worker"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sw-precache",
+            "version": "^5.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d6d3849c6270d38c9bbbc9d892668639",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.8",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "c74b393c35b29b91feda0b72dd79da22",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.18",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a0a11a2eb8d6a26515acfe9093c9c860",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "1975be5274435ee58c856eb77b5fb9b1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages",
+        "onCreateNode"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite",
+      "packageJson": {
+        "name": "gatsby-starter-blog",
+        "description": "Starter Gatsby Blog",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.251"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.46"
+          },
+          {
+            "name": "gatsby-plugin-feed",
+            "version": "^1.3.25"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.31"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^1.0.18"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.48"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.19"
+          },
+          {
+            "name": "gatsby-remark-copy-linked-files",
+            "version": "^1.5.37"
+          },
+          {
+            "name": "gatsby-remark-images",
+            "version": "^1.5.67"
+          },
+          {
+            "name": "gatsby-remark-prismjs",
+            "version": "^2.0.5"
+          },
+          {
+            "name": "gatsby-remark-responsive-iframe",
+            "version": "^1.4.20"
+          },
+          {
+            "name": "gatsby-remark-smartypants",
+            "version": "^1.4.12"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.32"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.44"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.27"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "typeface-merriweather",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typeface-montserrat",
+            "version": "0.0.54"
+          },
+          {
+            "name": "typography-theme-wordpress-2016",
+            "version": "^0.15.10"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "eslint",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.10.0"
+          },
+          {
+            "name": "gh-pages",
+            "version": "^1.2.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.13.7"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "9726f49d474105330362ef4055e69fe0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-page-creator": {
+      "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-page-creator",
+      "id": "Plugin gatsby-plugin-page-creator",
+      "name": "gatsby-plugin-page-creator",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "ae1d540f903eb57a6b8e721b03fbd105",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Starter Blog",
+        "author": "Kyle Mathews",
+        "description": "A starter blog demonstrating what Gatsby can do.",
+        "siteUrl": "https://gatsbyjs.github.io/gatsby-starter-blog/"
+      },
+      "pathPrefix": "/gatsby-starter-blog",
+      "polyfill": true,
+      "buildTime": "2018-07-24T18:52:33.956Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "330b55fa73768254007a8c73415ab24a",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e6f2223c9d6b4366f847e52917e990e9",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-24T17:46:38.306Z",
+      "accessTime": "2018-07-24T17:46:38.306Z",
+      "changeTime": "2018-07-24T17:46:38.306Z",
+      "birthTime": "2018-07-24T17:46:38.287Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 2867745750,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2533274790965832,
+      "atimeMs": 1532454398306.1216,
+      "mtimeMs": 1532454398306.1216,
+      "ctimeMs": 1532454398306.1216,
+      "birthtimeMs": 1532454398287.3894,
+      "atime": "2018-07-24T17:46:38.306Z",
+      "mtime": "2018-07-24T17:46:38.306Z",
+      "ctime": "2018-07-24T17:46:38.306Z",
+      "birthtime": "2018-07-24T17:46:38.287Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f4e226ab48679026608277b82d77ec8f",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\hello-world\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world",
+      "relativePath": "hello-world",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-24T17:46:38.294Z",
+      "accessTime": "2018-07-24T17:46:38.294Z",
+      "changeTime": "2018-07-24T17:46:38.294Z",
+      "birthTime": "2018-07-24T17:46:38.289Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "base": "hello-world",
+      "ext": "",
+      "name": "hello-world",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744387146,
+      "atimeMs": 1532454398294.4155,
+      "mtimeMs": 1532454398294.4155,
+      "ctimeMs": 1532454398294.4155,
+      "birthtimeMs": 1532454398289.3843,
+      "atime": "2018-07-24T17:46:38.294Z",
+      "mtime": "2018-07-24T17:46:38.294Z",
+      "ctime": "2018-07-24T17:46:38.294Z",
+      "birthtime": "2018-07-24T17:46:38.289Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "33065ac3faf4d2585ed18b4405a9dab9",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\hi-folks\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks",
+      "relativePath": "hi-folks",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-24T17:46:38.303Z",
+      "accessTime": "2018-07-24T17:46:38.303Z",
+      "changeTime": "2018-07-24T17:46:38.303Z",
+      "birthTime": "2018-07-24T17:46:38.302Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "base": "hi-folks",
+      "ext": "",
+      "name": "hi-folks",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3659174697808466,
+      "atimeMs": 1532454398302.5454,
+      "mtimeMs": 1532454398302.5454,
+      "ctimeMs": 1532454398302.5454,
+      "birthtimeMs": 1532454398301.58,
+      "atime": "2018-07-24T17:46:38.303Z",
+      "mtime": "2018-07-24T17:46:38.303Z",
+      "ctime": "2018-07-24T17:46:38.303Z",
+      "birthtime": "2018-07-24T17:46:38.302Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3e6d3bd45f0e221579c7028a3b63b511",
+        "type": "Directory",
+        "description": "Directory \"src\\pages\\my-second-post\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post",
+      "relativePath": "my-second-post",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-24T17:46:38.307Z",
+      "accessTime": "2018-07-24T17:46:38.307Z",
+      "changeTime": "2018-07-24T17:46:38.307Z",
+      "birthTime": "2018-07-24T17:46:38.306Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "base": "my-second-post",
+      "ext": "",
+      "name": "my-second-post",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2814749767676506,
+      "atimeMs": 1532454398307.0474,
+      "mtimeMs": 1532454398307.0474,
+      "ctimeMs": 1532454398307.0474,
+      "birthtimeMs": 1532454398306.1216,
+      "atime": "2018-07-24T17:46:38.307Z",
+      "mtime": "2018-07-24T17:46:38.307Z",
+      "ctime": "2018-07-24T17:46:38.307Z",
+      "birthtime": "2018-07-24T17:46:38.306Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8857de246387175d85e2e874b3d29120",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 208,
+      "prettySize": "208 B",
+      "modifiedTime": "2018-07-24T17:46:38.289Z",
+      "accessTime": "2018-07-24T17:46:38.287Z",
+      "changeTime": "2018-07-24T17:46:38.289Z",
+      "birthTime": "2018-07-24T17:46:38.287Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 2814749767676489,
+      "atimeMs": 1532454398287.3894,
+      "mtimeMs": 1532454398289.3843,
+      "ctimeMs": 1532454398289.3843,
+      "birthtimeMs": 1532454398287.3894,
+      "atime": "2018-07-24T17:46:38.287Z",
+      "mtime": "2018-07-24T17:46:38.289Z",
+      "ctime": "2018-07-24T17:46:38.289Z",
+      "birthtime": "2018-07-24T17:46:38.287Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/index.js absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "95e52b4a6751b93c46a54e306a8427fa",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src\\pages\\index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1616,
+      "prettySize": "1.62 kB",
+      "modifiedTime": "2018-07-24T17:46:38.306Z",
+      "accessTime": "2018-07-24T17:46:38.304Z",
+      "changeTime": "2018-07-24T17:46:38.306Z",
+      "birthTime": "2018-07-24T17:46:38.304Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744387158,
+      "atimeMs": 1532454398303.6006,
+      "mtimeMs": 1532454398306.1216,
+      "ctimeMs": 1532454398306.1216,
+      "birthtimeMs": 1532454398303.6006,
+      "atime": "2018-07-24T17:46:38.304Z",
+      "mtime": "2018-07-24T17:46:38.306Z",
+      "ctime": "2018-07-24T17:46:38.306Z",
+      "birthtime": "2018-07-24T17:46:38.304Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49987bf07f08b23829f259747f0adf52",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 878,
+      "prettySize": "878 B",
+      "modifiedTime": "2018-07-24T17:46:38.290Z",
+      "accessTime": "2018-07-24T17:46:38.289Z",
+      "changeTime": "2018-07-24T17:46:38.290Z",
+      "birthTime": "2018-07-24T17:46:38.289Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744387147,
+      "atimeMs": 1532454398289.3843,
+      "mtimeMs": 1532454398290.3813,
+      "ctimeMs": 1532454398290.3813,
+      "birthtimeMs": 1532454398289.3843,
+      "atime": "2018-07-24T17:46:38.289Z",
+      "mtime": "2018-07-24T17:46:38.290Z",
+      "ctime": "2018-07-24T17:46:38.290Z",
+      "birthtime": "2018-07-24T17:46:38.289Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "592db69fa8999157b6415afc181a4c9f",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\my-second-post\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md",
+      "relativePath": "my-second-post/index.md",
+      "extension": "md",
+      "size": 391,
+      "prettySize": "391 B",
+      "modifiedTime": "2018-07-24T17:46:38.307Z",
+      "accessTime": "2018-07-24T17:46:38.307Z",
+      "changeTime": "2018-07-24T17:46:38.307Z",
+      "birthTime": "2018-07-24T17:46:38.307Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "my-second-post",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744387163,
+      "atimeMs": 1532454398307.0474,
+      "mtimeMs": 1532454398307.0474,
+      "ctimeMs": 1532454398307.0474,
+      "birthtimeMs": 1532454398307.0474,
+      "atime": "2018-07-24T17:46:38.307Z",
+      "mtime": "2018-07-24T17:46:38.307Z",
+      "ctime": "2018-07-24T17:46:38.307Z",
+      "birthtime": "2018-07-24T17:46:38.307Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "00192590dc776a70974de90a71bda705",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\pages\\hi-folks\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md",
+      "relativePath": "hi-folks/index.md",
+      "extension": "md",
+      "size": 5567,
+      "prettySize": "5.57 kB",
+      "modifiedTime": "2018-07-24T17:46:38.304Z",
+      "accessTime": "2018-07-24T17:46:38.303Z",
+      "changeTime": "2018-07-24T17:46:38.304Z",
+      "birthTime": "2018-07-24T17:46:38.303Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hi-folks",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3659174697808467,
+      "atimeMs": 1532454398302.5454,
+      "mtimeMs": 1532454398303.6006,
+      "ctimeMs": 1532454398303.6006,
+      "birthtimeMs": 1532454398302.5454,
+      "atime": "2018-07-24T17:46:38.303Z",
+      "mtime": "2018-07-24T17:46:38.304Z",
+      "ctime": "2018-07-24T17:46:38.304Z",
+      "birthtime": "2018-07-24T17:46:38.303Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: Hello World\r\ndate: \"2015-05-01T22:12:03.284Z\"\r\n---\r\n\r\nThis is my first post on my new fake blog! How exciting!\r\n\r\nI'm sure I'll write a lot more interesting things in the future.\r\n\r\nOh, and here's a great quote from this Wikipedia on\r\n[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\r\n\r\n> A salted duck egg is a Chinese preserved food product made by soaking duck\r\n> eggs in brine, or packing each egg in damp, salted charcoal. In Asian\r\n> supermarkets, these eggs are sometimes sold covered in a thick layer of salted\r\n> charcoal paste. The eggs may also be sold with the salted paste removed,\r\n> wrapped in plastic, and vacuum packed. From the salt curing process, the\r\n> salted duck eggs have a briny aroma, a gelatin-like egg white and a\r\n> firm-textured, round yolk that is bright orange-red in color.\r\n\r\n![Chinese Salty Egg](./salty_egg.jpg)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "da47c9ab1791380e7d5899cd22d0332c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Hello World",
+        "date": "2015-05-01T22:12:03.284Z",
+        "_PARENT": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file",
+        "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md",
+      "fields": {
+        "slug": "/hello-world/"
+      }
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: My Second Post!\r\ndate: \"2015-05-06T23:46:37.121Z\"\r\n---\r\n\r\nWow! I love blogging so much already.\r\n\r\nDid you know that \"despite its name, salted duck eggs can also be made from\r\nchicken eggs, though the taste and texture will be somewhat different, and the\r\negg yolk will be less rich.\"?\r\n([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))\r\n\r\nYeah, I didn't either.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "94eb119aaa468ee0e2b0a15b12d8dd58",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "My Second Post!",
+        "date": "2015-05-06T23:46:37.121Z",
+        "_PARENT": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file",
+        "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md",
+      "fields": {
+        "slug": "/my-second-post/"
+      }
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: New Beginnings\r\ndate: \"2015-05-28T22:40:32.169Z\"\r\n---\r\n\r\nFar far away, behind the word mountains, far from the countries Vokalia and\r\nConsonantia, there live the blind texts. Separated they live in Bookmarksgrove\r\nright at the coast of the Semantics, a large language ocean. A small river named\r\nDuden flows by their place and supplies it with the necessary regelialia.\r\n\r\n## On deer horse aboard tritely yikes and much\r\n\r\nThe Big Oxmox advised her not to do so, because there were thousands of bad\r\nCommas, wild Question Marks and devious Semikoli, but the Little Blind Text\r\ndidn’t listen. She packed her seven versalia, put her initial into the belt and\r\nmade herself on the way.\r\n\r\n* This however showed weasel\r\n* Well uncritical so misled\r\n  * this is very interesting\r\n* Goodness much until that fluid owl\r\n\r\nWhen she reached the first hills of the **Italic Mountains**, she had a last\r\nview back on the skyline of her hometown _Bookmarksgrove_, the headline of\r\n[Alphabet Village](http://google.com) and the subline of her own road, the Line\r\nLane. Pityful a rethoric question ran over her cheek, then she continued her\r\nway. On her way she met a copy.\r\n\r\n### Overlaid the jeepers uselessly much excluding\r\n\r\nBut nothing the copy said could convince her and so it didn’t take long until a\r\nfew insidious Copy Writers ambushed her, made her drunk with\r\n[Longe and Parole](http://google.com) and dragged her into their agency, where\r\nthey abused her for their projects again and again. And if she hasn’t been\r\nrewritten, then they are still using her.\r\n\r\n> Far far away, behind the word mountains, far from the countries Vokalia and\r\n> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove\r\n> right at the coast of the Semantics, a large language ocean.\r\n\r\nIt is a paradisematic country, in which roasted parts of sentences fly into your\r\nmouth. Even the all-powerful Pointing has no control about the blind texts it is\r\nan almost unorthographic life One day however a small line of blind text by the\r\nname of Lorem Ipsum decided to leave for the far World of Grammar.\r\n\r\n### According a funnily until pre-set or arrogant well cheerful\r\n\r\nThe Big Oxmox advised her not to do so, because there were thousands of bad\r\nCommas, wild Question Marks and devious Semikoli, but the Little Blind Text\r\ndidn’t listen. She packed her seven versalia, put her initial into the belt and\r\nmade herself on the way.\r\n\r\n1.  So baboon this\r\n2.  Mounted militant weasel gregariously admonishingly straightly hey\r\n3.  Dear foresaw hungry and much some overhung\r\n4.  Rash opossum less because less some amid besides yikes jeepers frenetic\r\n    impassive fruitlessly shut\r\n\r\nWhen she reached the first hills of the Italic Mountains, she had a last view\r\nback on the skyline of her hometown Bookmarksgrove, the headline of Alphabet\r\nVillage and the subline of her own road, the Line Lane. Pityful a rethoric\r\nquestion ran over her cheek, then she continued her way. On her way she met a\r\ncopy.\r\n\r\n> The copy warned the Little Blind Text, that where it came from it would have\r\n> been rewritten a thousand times and everything that was left from its origin\r\n> would be the word \"and\" and the Little Blind Text should turn around and\r\n> return to its own, safe country.\r\n\r\nBut nothing the copy said could convince her and so it didn’t take long until a\r\nfew insidious Copy Writers ambushed her, made her drunk with Longe and Parole\r\nand dragged her into their agency, where they abused her for their projects\r\nagain and again. And if she hasn’t been rewritten, then they are still using\r\nher. Far far away, behind the word mountains, far from the countries Vokalia and\r\nConsonantia, there live the blind texts.\r\n\r\n#### Silent delightfully including because before one up barring chameleon\r\n\r\nSeparated they live in Bookmarksgrove right at the coast of the Semantics, a\r\nlarge language ocean. A small river named Duden flows by their place and\r\nsupplies it with the necessary regelialia. It is a paradisematic country, in\r\nwhich roasted parts of sentences fly into your mouth.\r\n\r\nEven the all-powerful Pointing has no control about the blind texts it is an\r\nalmost unorthographic life One day however a small line of blind text by the\r\nname of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox\r\nadvised her not to do so, because there were thousands of bad Commas, wild\r\nQuestion Marks and devious Semikoli, but the Little Blind Text didn’t listen.\r\n\r\n##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along\r\n\r\nShe packed her seven versalia, put her initial into the belt and made herself on\r\nthe way. When she reached the first hills of the Italic Mountains, she had a\r\nlast view back on the skyline of her hometown Bookmarksgrove, the headline of\r\nAlphabet Village and the subline of her own road, the Line Lane. Pityful a\r\nrethoric question ran over her cheek, then she continued her way. On her way she\r\nmet a copy.\r\n\r\n###### Slapped cozy a that lightheartedly and far\r\n\r\nThe copy warned the Little Blind Text, that where it came from it would have\r\nbeen rewritten a thousand times and everything that was left from its origin\r\nwould be the word \"and\" and the Little Blind Text should turn around and return\r\nto its own, safe country. But nothing the copy said could convince her and so it\r\ndidn’t take long until a few insidious Copy Writers ambushed her, made her drunk\r\nwith Longe and Parole and dragged her into their agency, where they abused her\r\nfor their projects again and again.\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "bf35fde8f5ef529139ac0edab929ba38",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "New Beginnings",
+        "date": "2015-05-28T22:40:32.169Z",
+        "_PARENT": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file",
+        "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md",
+      "fields": {
+        "slug": "/hi-folks/"
+      }
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src\\pages\\hello-world\\salty_egg.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg",
+      "relativePath": "hello-world/salty_egg.jpg",
+      "extension": "jpg",
+      "size": 684322,
+      "prettySize": "684 kB",
+      "modifiedTime": "2018-07-24T17:46:38.300Z",
+      "accessTime": "2018-07-24T17:46:38.294Z",
+      "changeTime": "2018-07-24T17:46:38.300Z",
+      "birthTime": "2018-07-24T17:46:38.294Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world",
+      "base": "salty_egg.jpg",
+      "ext": ".jpg",
+      "name": "salty_egg",
+      "relativeDirectory": "hello-world",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 3096224744387148,
+      "atimeMs": 1532454398294.4155,
+      "mtimeMs": 1532454398299.92,
+      "ctimeMs": 1532454398299.92,
+      "birthtimeMs": 1532454398294.4155,
+      "atime": "2018-07-24T17:46:38.294Z",
+      "mtime": "2018-07-24T17:46:38.300Z",
+      "ctime": "2018-07-24T17:46:38.300Z",
+      "birthtime": "2018-07-24T17:46:38.294Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/salty_egg.jpg absPath of file",
+      "internal": {
+        "contentDigest": "8058f3f26913fea3b6a89a73344fe94a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "886173ae4a621a5572ecef2001d6392c",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "path": "/hi-folks/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/hi-folks/",
+        "previous": {
+          "fields": {
+            "slug": "/my-second-post/"
+          },
+          "frontmatter": {
+            "title": "My Second Post!"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0dbb3e448b8eced73cfd8509cf180251",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/my-second-post/",
+        "previous": {
+          "fields": {
+            "slug": "/hello-world/"
+          },
+          "frontmatter": {
+            "title": "Hello World"
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/hi-folks/"
+          },
+          "frontmatter": {
+            "title": "New Beginnings"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "607fbc8c58f4cc0e859f8d570f5dc497",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/hello-world/",
+        "previous": null,
+        "next": {
+          "fields": {
+            "slug": "/my-second-post/"
+          },
+          "frontmatter": {
+            "title": "My Second Post!"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a31d966060135f98002d90a558d0fe3c",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "05ca01f49b689725cca051f7006d624b",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "480ae387307c1358c26ae6a03d1e8840",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3292856f506c874722d5a76c9352c191",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "250fdb618077cb9b0324449b7d6d4f43"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/my-second-post/",
+        "/hi-folks/",
+        "/hello-world/",
+        "/"
+      ],
+      "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/my-second-post/index.md absPath of file >>> MarkdownRemark": [
+        "/my-second-post/"
+      ],
+      "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hi-folks/index.md absPath of file >>> MarkdownRemark": [
+        "/hi-folks/"
+      ],
+      "C:/Users/EVADELEON2/Documents/acfromspace.github.io/gatsbywebsite/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
+      ]
+    },
+    "connections": {
+      "MarkdownRemark": [
+        "/"
+      ]
+    }
+  }
+}
