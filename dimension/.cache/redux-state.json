@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84c6ca13e9670e3232dbe2e99efafdf5",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -227,10 +217,7 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1194,16 +1181,14 @@
         "author": "Author",
         "description": "Description"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/acfromspace.github.io",
       "polyfill": true,
-      "buildTime": "2018-07-24T23:05:24.856Z",
+      "buildTime": "2018-07-24T23:46:06.385Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "01490b9dbc4e63136b289356d61811c3",
+        "contentDigest": "ffa6a4ca7bbe0df5f6aff0a3c4988db2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1213,7 +1198,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6a7eb4be3a12dea63dde878099956e0d",
+        "contentDigest": "2fc1cdcf471b0bb803e1f08b595f5a21",
         "type": "Directory",
         "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1224,10 +1209,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.189Z",
-      "accessTime": "2018-07-24T21:52:36.189Z",
-      "changeTime": "2018-07-24T21:52:36.189Z",
-      "birthTime": "2018-07-24T21:52:36.175Z",
+      "modifiedTime": "2018-07-24T23:31:44.301Z",
+      "accessTime": "2018-07-24T23:31:44.301Z",
+      "changeTime": "2018-07-24T23:31:44.301Z",
+      "birthTime": "2018-07-24T23:31:44.284Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src",
       "base": "posts",
@@ -1240,22 +1225,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884654505,
-      "atimeMs": 1532469156189.1309,
-      "mtimeMs": 1532469156189.1309,
-      "ctimeMs": 1532469156189.1309,
-      "birthtimeMs": 1532469156175.0571,
-      "atime": "2018-07-24T21:52:36.189Z",
-      "mtime": "2018-07-24T21:52:36.189Z",
-      "ctime": "2018-07-24T21:52:36.189Z",
-      "birthtime": "2018-07-24T21:52:36.175Z"
+      "ino": 2533274791036363,
+      "atimeMs": 1532475104301.485,
+      "mtimeMs": 1532475104301.485,
+      "ctimeMs": 1532475104301.485,
+      "birthtimeMs": 1532475104283.697,
+      "atime": "2018-07-24T23:31:44.301Z",
+      "mtime": "2018-07-24T23:31:44.301Z",
+      "ctime": "2018-07-24T23:31:44.301Z",
+      "birthtime": "2018-07-24T23:31:44.284Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f17842b2f1881fbd0250b55c76ecd0d0",
+        "contentDigest": "24a0cfba1ba6432795409247be753b0f",
         "type": "Directory",
         "description": "Directory \"src\\posts\\hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1266,10 +1251,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.181Z",
-      "accessTime": "2018-07-24T21:52:36.181Z",
-      "changeTime": "2018-07-24T21:52:36.181Z",
-      "birthTime": "2018-07-24T21:52:36.177Z",
+      "modifiedTime": "2018-07-24T23:31:44.292Z",
+      "accessTime": "2018-07-24T23:31:44.292Z",
+      "changeTime": "2018-07-24T23:31:44.292Z",
+      "birthTime": "2018-07-24T23:31:44.285Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "hello-world",
@@ -1282,22 +1267,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884654506,
-      "atimeMs": 1532469156181.042,
-      "mtimeMs": 1532469156181.042,
-      "ctimeMs": 1532469156181.042,
-      "birthtimeMs": 1532469156177.052,
-      "atime": "2018-07-24T21:52:36.181Z",
-      "mtime": "2018-07-24T21:52:36.181Z",
-      "ctime": "2018-07-24T21:52:36.181Z",
-      "birthtime": "2018-07-24T21:52:36.177Z"
+      "ino": 2533274791036365,
+      "atimeMs": 1532475104291.7346,
+      "mtimeMs": 1532475104291.7346,
+      "ctimeMs": 1532475104291.7346,
+      "birthtimeMs": 1532475104284.96,
+      "atime": "2018-07-24T23:31:44.292Z",
+      "mtime": "2018-07-24T23:31:44.292Z",
+      "ctime": "2018-07-24T23:31:44.292Z",
+      "birthtime": "2018-07-24T23:31:44.285Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "00288225156c37f60c4f04b0a7785827",
+        "contentDigest": "27dbff07dfecec67c48d5941cff7d634",
         "type": "Directory",
         "description": "Directory \"src\\posts\\my-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1308,10 +1293,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.191Z",
-      "accessTime": "2018-07-24T21:52:36.191Z",
-      "changeTime": "2018-07-24T21:52:36.191Z",
-      "birthTime": "2018-07-24T21:52:36.189Z",
+      "modifiedTime": "2018-07-24T23:31:44.303Z",
+      "accessTime": "2018-07-24T23:31:44.303Z",
+      "changeTime": "2018-07-24T23:31:44.303Z",
+      "birthTime": "2018-07-24T23:31:44.301Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "my-second-post",
@@ -1324,22 +1309,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884654511,
-      "atimeMs": 1532469156191.1404,
-      "mtimeMs": 1532469156191.1404,
-      "ctimeMs": 1532469156191.1404,
-      "birthtimeMs": 1532469156189.1309,
-      "atime": "2018-07-24T21:52:36.191Z",
-      "mtime": "2018-07-24T21:52:36.191Z",
-      "ctime": "2018-07-24T21:52:36.191Z",
-      "birthtime": "2018-07-24T21:52:36.189Z"
+      "ino": 2533274791036374,
+      "atimeMs": 1532475104302.538,
+      "mtimeMs": 1532475104302.538,
+      "ctimeMs": 1532475104302.538,
+      "birthtimeMs": 1532475104301.485,
+      "atime": "2018-07-24T23:31:44.303Z",
+      "mtime": "2018-07-24T23:31:44.303Z",
+      "ctime": "2018-07-24T23:31:44.303Z",
+      "birthtime": "2018-07-24T23:31:44.301Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "094d2bc373229e65b034608a33af16ef",
+        "contentDigest": "9e5298d74d1a8603d9f243cea5d88473",
         "type": "Directory",
         "description": "Directory \"src\\posts\\hi-folks\"",
         "owner": "gatsby-source-filesystem"
@@ -1350,10 +1335,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.186Z",
-      "accessTime": "2018-07-24T21:52:36.186Z",
-      "changeTime": "2018-07-24T21:52:36.186Z",
-      "birthTime": "2018-07-24T21:52:36.184Z",
+      "modifiedTime": "2018-07-24T23:31:44.299Z",
+      "accessTime": "2018-07-24T23:31:44.299Z",
+      "changeTime": "2018-07-24T23:31:44.299Z",
+      "birthTime": "2018-07-24T23:31:44.299Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "hi-folks",
@@ -1366,15 +1351,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884654509,
-      "atimeMs": 1532469156186.145,
-      "mtimeMs": 1532469156186.145,
-      "ctimeMs": 1532469156186.145,
-      "birthtimeMs": 1532469156184.1523,
-      "atime": "2018-07-24T21:52:36.186Z",
-      "mtime": "2018-07-24T21:52:36.186Z",
-      "ctime": "2018-07-24T21:52:36.186Z",
-      "birthtime": "2018-07-24T21:52:36.184Z"
+      "ino": 2533274791036372,
+      "atimeMs": 1532475104299.4707,
+      "mtimeMs": 1532475104299.4707,
+      "ctimeMs": 1532475104299.4707,
+      "birthtimeMs": 1532475104299.4707,
+      "atime": "2018-07-24T23:31:44.299Z",
+      "mtime": "2018-07-24T23:31:44.299Z",
+      "ctime": "2018-07-24T23:31:44.299Z",
+      "birthtime": "2018-07-24T23:31:44.299Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file",
@@ -1634,7 +1619,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4a4803b7f395fd4e952974c3ec79d098",
+        "contentDigest": "f41472f709c1694834b6ee7abe77f5fc",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1645,10 +1630,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.161Z",
-      "accessTime": "2018-07-24T21:52:36.161Z",
-      "changeTime": "2018-07-24T21:52:36.161Z",
-      "birthTime": "2018-07-24T21:52:36.155Z",
+      "modifiedTime": "2018-07-24T23:31:44.285Z",
+      "accessTime": "2018-07-24T23:31:44.285Z",
+      "changeTime": "2018-07-24T23:31:44.285Z",
+      "birthTime": "2018-07-24T23:31:44.271Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src",
       "base": "images",
@@ -1661,15 +1646,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1407374884654496,
-      "atimeMs": 1532469156160.819,
-      "mtimeMs": 1532469156160.819,
-      "ctimeMs": 1532469156160.819,
-      "birthtimeMs": 1532469156154.958,
-      "atime": "2018-07-24T21:52:36.161Z",
-      "mtime": "2018-07-24T21:52:36.161Z",
-      "ctime": "2018-07-24T21:52:36.161Z",
-      "birthtime": "2018-07-24T21:52:36.155Z"
+      "ino": 2533274791036354,
+      "atimeMs": 1532475104284.96,
+      "mtimeMs": 1532475104284.96,
+      "ctimeMs": 1532475104284.96,
+      "birthtimeMs": 1532475104270.7112,
+      "atime": "2018-07-24T23:31:44.285Z",
+      "mtime": "2018-07-24T23:31:44.285Z",
+      "ctime": "2018-07-24T23:31:44.285Z",
+      "birthtime": "2018-07-24T23:31:44.271Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file",
@@ -1852,7 +1837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5de3c9c58baf929dff4c6ed9e6b806b4",
+        "contentDigest": "e8efef300f2abd273f4452a35d90408c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1873,7 +1858,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8310438efa24672580ef629d6e856cd6",
+        "contentDigest": "7c85cc0a7f8032c3c35d61cbd1d9fe54",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1894,7 +1879,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bfe22ac65515556d0ea44ff46ac2dbcd",
+        "contentDigest": "44f6e813dc6ce479897d085605247b54",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1915,7 +1900,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "99c4fa6e5d260e29793b3b289df35d12",
+        "contentDigest": "2d6b716c0e785335ec2111ecc5449d65",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1936,7 +1921,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f0e89473776e60ae7beed91ccc00116",
+        "contentDigest": "f6f311b69910112abcf5080ec337fd97",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
