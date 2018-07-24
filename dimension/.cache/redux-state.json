@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "84c6ca13e9670e3232dbe2e99efafdf5",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -314,7 +324,7 @@
               "backgroundColor": "white",
               "linkImagesToOriginal": true,
               "showCaptions": false,
-              "pathPrefix": "/acfromspace.github.io"
+              "pathPrefix": ""
             },
             "nodeAPIs": [],
             "browserAPIs": [],
@@ -360,7 +370,10 @@
           "markdown",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -482,7 +495,7 @@
         "backgroundColor": "white",
         "linkImagesToOriginal": true,
         "showCaptions": false,
-        "pathPrefix": "/acfromspace.github.io"
+        "pathPrefix": ""
       },
       "nodeAPIs": [],
       "browserAPIs": [],
@@ -501,7 +514,10 @@
           "remark",
           "responsive images"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -585,7 +601,10 @@
           "prismjs",
           "remark"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -669,7 +688,10 @@
           "image",
           "sharp"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -734,7 +756,10 @@
           "image",
           "sharp"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -852,7 +877,10 @@
           "noscript",
           "style"
         ],
-        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -916,7 +944,10 @@
           "sass",
           "scss"
         ],
-        "author": "Daniel Farrell <daniel@mobelux.com>",
+        "author": {
+          "name": "Daniel Farrell",
+          "email": "daniel@mobelux.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -1100,7 +1131,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -1160,14 +1194,16 @@
         "author": "Author",
         "description": "Description"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/acfromspace.github.io",
       "polyfill": true,
-      "buildTime": "2018-07-24T22:53:47.688Z",
+      "buildTime": "2018-07-24T23:05:24.856Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c829d7ad527054f9d619c73d951ea725",
+        "contentDigest": "01490b9dbc4e63136b289356d61811c3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1256,48 +1292,6 @@
       "ctime": "2018-07-24T21:52:36.181Z",
       "birthtime": "2018-07-24T21:52:36.177Z"
     },
-    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file": {
-      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "094d2bc373229e65b034608a33af16ef",
-        "type": "Directory",
-        "description": "Directory \"src\\posts\\hi-folks\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks",
-      "relativePath": "hi-folks",
-      "extension": "",
-      "size": 0,
-      "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T21:52:36.186Z",
-      "accessTime": "2018-07-24T21:52:36.186Z",
-      "changeTime": "2018-07-24T21:52:36.186Z",
-      "birthTime": "2018-07-24T21:52:36.184Z",
-      "root": "C:/",
-      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
-      "base": "hi-folks",
-      "ext": "",
-      "name": "hi-folks",
-      "relativeDirectory": "",
-      "dev": 2867745750,
-      "mode": 16822,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1407374884654509,
-      "atimeMs": 1532469156186.145,
-      "mtimeMs": 1532469156186.145,
-      "ctimeMs": 1532469156186.145,
-      "birthtimeMs": 1532469156184.1523,
-      "atime": "2018-07-24T21:52:36.186Z",
-      "mtime": "2018-07-24T21:52:36.186Z",
-      "ctime": "2018-07-24T21:52:36.186Z",
-      "birthtime": "2018-07-24T21:52:36.184Z"
-    },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file",
       "children": [],
@@ -1339,6 +1333,48 @@
       "mtime": "2018-07-24T21:52:36.191Z",
       "ctime": "2018-07-24T21:52:36.191Z",
       "birthtime": "2018-07-24T21:52:36.189Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "094d2bc373229e65b034608a33af16ef",
+        "type": "Directory",
+        "description": "Directory \"src\\posts\\hi-folks\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks",
+      "relativePath": "hi-folks",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-07-24T21:52:36.186Z",
+      "accessTime": "2018-07-24T21:52:36.186Z",
+      "changeTime": "2018-07-24T21:52:36.186Z",
+      "birthTime": "2018-07-24T21:52:36.184Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
+      "base": "hi-folks",
+      "ext": "",
+      "name": "hi-folks",
+      "relativeDirectory": "",
+      "dev": 2867745750,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884654509,
+      "atimeMs": 1532469156186.145,
+      "mtimeMs": 1532469156186.145,
+      "ctimeMs": 1532469156186.145,
+      "birthtimeMs": 1532469156184.1523,
+      "atime": "2018-07-24T21:52:36.186Z",
+      "mtime": "2018-07-24T21:52:36.186Z",
+      "ctime": "2018-07-24T21:52:36.186Z",
+      "birthtime": "2018-07-24T21:52:36.184Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file",
@@ -1385,51 +1421,6 @@
       "ctime": "2018-07-24T21:51:02.238Z",
       "birthtime": "2018-07-24T21:52:36.191Z"
     },
-    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file": {
-      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
-      "children": [
-        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "bcbab5efa47e99b44f7789dedf3f8a03",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src\\posts\\hello-world\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md",
-      "relativePath": "hello-world/index.md",
-      "extension": "md",
-      "size": 881,
-      "prettySize": "881 B",
-      "modifiedTime": "2018-07-24T21:51:02.221Z",
-      "accessTime": "2018-07-24T21:52:36.179Z",
-      "changeTime": "2018-07-24T21:51:02.221Z",
-      "birthTime": "2018-07-24T21:52:36.179Z",
-      "root": "C:/",
-      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "hello-world",
-      "dev": 2867745750,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1407374884654507,
-      "atimeMs": 1532469156179.0789,
-      "mtimeMs": 1532469062220.7986,
-      "ctimeMs": 1532469062220.7986,
-      "birthtimeMs": 1532469156179.0789,
-      "atime": "2018-07-24T21:52:36.179Z",
-      "mtime": "2018-07-24T21:51:02.221Z",
-      "ctime": "2018-07-24T21:51:02.221Z",
-      "birthtime": "2018-07-24T21:52:36.179Z"
-    },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md absPath of file",
       "children": [
@@ -1474,6 +1465,51 @@
       "mtime": "2018-07-24T21:51:02.221Z",
       "ctime": "2018-07-24T21:51:02.221Z",
       "birthtime": "2018-07-24T21:52:36.186Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bcbab5efa47e99b44f7789dedf3f8a03",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\posts\\hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 881,
+      "prettySize": "881 B",
+      "modifiedTime": "2018-07-24T21:51:02.221Z",
+      "accessTime": "2018-07-24T21:52:36.179Z",
+      "changeTime": "2018-07-24T21:51:02.221Z",
+      "birthTime": "2018-07-24T21:52:36.179Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884654507,
+      "atimeMs": 1532469156179.0789,
+      "mtimeMs": 1532469062220.7986,
+      "ctimeMs": 1532469062220.7986,
+      "birthtimeMs": 1532469156179.0789,
+      "atime": "2018-07-24T21:52:36.179Z",
+      "mtime": "2018-07-24T21:51:02.221Z",
+      "ctime": "2018-07-24T21:51:02.221Z",
+      "birthtime": "2018-07-24T21:52:36.179Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
@@ -1816,7 +1852,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cfbe9db69652e20897cda3cdec508795",
+        "contentDigest": "5de3c9c58baf929dff4c6ed9e6b806b4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1837,7 +1873,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0ca7767e9679a756f7f274d4a1751385",
+        "contentDigest": "8310438efa24672580ef629d6e856cd6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1858,7 +1894,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "160c43dbf1417ad03a37b37e3219bbdc",
+        "contentDigest": "bfe22ac65515556d0ea44ff46ac2dbcd",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1879,7 +1915,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78b60b27d3113042bced1e8c24afc130",
+        "contentDigest": "99c4fa6e5d260e29793b3b289df35d12",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1900,7 +1936,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "467411696bcb99eb6e59febdd1814669",
+        "contentDigest": "5f0e89473776e60ae7beed91ccc00116",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
