@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6237f9c9abb67d2ee05ee172037c1a15",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1170,16 +1160,14 @@
         "author": "Author",
         "description": "Description"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/acfromspace.github.io",
       "polyfill": true,
-      "buildTime": "2018-07-24T22:30:13.041Z",
+      "buildTime": "2018-07-24T22:53:47.688Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "05e826d7be582b9d31343fb5f533920c",
+        "contentDigest": "c829d7ad527054f9d619c73d951ea725",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1828,7 +1816,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "365604db0491e84d37f7f35edddda770",
+        "contentDigest": "cfbe9db69652e20897cda3cdec508795",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1849,7 +1837,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "530c63b489094827f53dde0463c8ef7c",
+        "contentDigest": "0ca7767e9679a756f7f274d4a1751385",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1870,7 +1858,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc78de4b9e2339928a78ccdea76599c4",
+        "contentDigest": "160c43dbf1417ad03a37b37e3219bbdc",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1891,7 +1879,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "589627706c2e73051da71de7c2f84c14",
+        "contentDigest": "78b60b27d3113042bced1e8c24afc130",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1912,7 +1900,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b60d9ef4ae14f247d18b7370ee9384a2",
+        "contentDigest": "467411696bcb99eb6e59febdd1814669",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }

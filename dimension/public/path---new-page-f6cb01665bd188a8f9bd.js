@@ -1,2 +1,2 @@
-webpackJsonp([0x5d16ea1533fc],{342:function(t,e){t.exports={data:{site:{siteMetadata:{title:"AC De Leon",description:"Description"}}},pathContext:{}}}});
+webpackJsonp([0x5d16ea1533fc],{341:function(t,e){t.exports={data:{site:{siteMetadata:{title:"AC De Leon",description:"Description"}}},pathContext:{}}}});
 //# sourceMappingURL=path---new-page-f6cb01665bd188a8f9bd.js.map
