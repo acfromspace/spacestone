@@ -9,9 +9,9 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\layout-index.json"),
-  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hello-world.json"),
   "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\my-second-post.json"),
   "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hi-folks.json"),
+  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hello-world.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\index.json"),
   "new-page.json": require("gatsby-module-loader?name=path---new-page!C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\new-page.json")
 }

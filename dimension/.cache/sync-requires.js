@@ -14,9 +14,9 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\layout-index.json"),
-  "hello-world.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hello-world.json"),
   "my-second-post.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\my-second-post.json"),
   "hi-folks.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hi-folks.json"),
+  "hello-world.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\hello-world.json"),
   "index.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\index.json"),
   "new-page.json": require("C:\\Users\\EVADELEON2\\Documents\\acfromspace.github.io\\dimension\\.cache\\json\\new-page.json")
 }

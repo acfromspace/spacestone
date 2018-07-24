@@ -311,7 +311,7 @@
               "backgroundColor": "white",
               "linkImagesToOriginal": true,
               "showCaptions": false,
-              "pathPrefix": ""
+              "pathPrefix": "/acfromspace.github.io"
             },
             "nodeAPIs": [],
             "browserAPIs": [],
@@ -479,7 +479,7 @@
         "backgroundColor": "white",
         "linkImagesToOriginal": true,
         "showCaptions": false,
-        "pathPrefix": ""
+        "pathPrefix": "/acfromspace.github.io"
       },
       "nodeAPIs": [],
       "browserAPIs": [],
@@ -972,7 +972,7 @@
       "resolve": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "c405cbc5fffdb61024bb8ce918dca2aa",
+      "version": "8e3f6f9636647fec26fb6ffd680727f1",
       "pluginOptions": {
         "plugins": []
       },
@@ -1067,7 +1067,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "17a9442f369b33fdcbc741125a17dc83",
+        "contentDigest": "31847300715803158480db9b032a5e34",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1157,14 +1157,14 @@
         "author": "Author",
         "description": "Description"
       },
-      "pathPrefix": "",
+      "pathPrefix": "/acfromspace.github.io",
       "polyfill": true,
-      "buildTime": "2018-07-24T20:15:57.307Z",
+      "buildTime": "2018-07-24T22:16:27.511Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "82058efb8591ccc30d459448d81c956d",
+        "contentDigest": "a79cbe27edeb8bde8d25c107d5463183",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1174,7 +1174,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6078c0c59ddab848c5122302c0f57119",
+        "contentDigest": "6a7eb4be3a12dea63dde878099956e0d",
         "type": "Directory",
         "description": "Directory \"src\\posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1185,10 +1185,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T20:07:11.670Z",
-      "accessTime": "2018-07-24T20:07:11.670Z",
-      "changeTime": "2018-07-24T20:07:11.670Z",
-      "birthTime": "2018-07-24T20:07:11.665Z",
+      "modifiedTime": "2018-07-24T21:52:36.189Z",
+      "accessTime": "2018-07-24T21:52:36.189Z",
+      "changeTime": "2018-07-24T21:52:36.189Z",
+      "birthTime": "2018-07-24T21:52:36.175Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src",
       "base": "posts",
@@ -1201,22 +1201,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 5629499534276950,
-      "atimeMs": 1532462831669.9749,
-      "mtimeMs": 1532462831669.9749,
-      "ctimeMs": 1532462831669.9749,
-      "birthtimeMs": 1532462831664.956,
-      "atime": "2018-07-24T20:07:11.670Z",
-      "mtime": "2018-07-24T20:07:11.670Z",
-      "ctime": "2018-07-24T20:07:11.670Z",
-      "birthtime": "2018-07-24T20:07:11.665Z"
+      "ino": 1407374884654505,
+      "atimeMs": 1532469156189.1309,
+      "mtimeMs": 1532469156189.1309,
+      "ctimeMs": 1532469156189.1309,
+      "birthtimeMs": 1532469156175.0571,
+      "atime": "2018-07-24T21:52:36.189Z",
+      "mtime": "2018-07-24T21:52:36.189Z",
+      "ctime": "2018-07-24T21:52:36.189Z",
+      "birthtime": "2018-07-24T21:52:36.175Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5658da6facba901c31f526bad0339d68",
+        "contentDigest": "f17842b2f1881fbd0250b55c76ecd0d0",
         "type": "Directory",
         "description": "Directory \"src\\posts\\hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1227,10 +1227,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T20:07:11.672Z",
-      "accessTime": "2018-07-24T20:07:11.672Z",
-      "changeTime": "2018-07-24T20:07:11.672Z",
-      "birthTime": "2018-07-24T20:07:11.665Z",
+      "modifiedTime": "2018-07-24T21:52:36.181Z",
+      "accessTime": "2018-07-24T21:52:36.181Z",
+      "changeTime": "2018-07-24T21:52:36.181Z",
+      "birthTime": "2018-07-24T21:52:36.177Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "hello-world",
@@ -1243,22 +1243,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 7318349394540894,
-      "atimeMs": 1532462831671.938,
-      "mtimeMs": 1532462831671.938,
-      "ctimeMs": 1532462831671.938,
-      "birthtimeMs": 1532462831664.956,
-      "atime": "2018-07-24T20:07:11.672Z",
-      "mtime": "2018-07-24T20:07:11.672Z",
-      "ctime": "2018-07-24T20:07:11.672Z",
-      "birthtime": "2018-07-24T20:07:11.665Z"
+      "ino": 1407374884654506,
+      "atimeMs": 1532469156181.042,
+      "mtimeMs": 1532469156181.042,
+      "ctimeMs": 1532469156181.042,
+      "birthtimeMs": 1532469156177.052,
+      "atime": "2018-07-24T21:52:36.181Z",
+      "mtime": "2018-07-24T21:52:36.181Z",
+      "ctime": "2018-07-24T21:52:36.181Z",
+      "birthtime": "2018-07-24T21:52:36.177Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "01547afcbc3e7c3a4065cb2285fb8e60",
+        "contentDigest": "094d2bc373229e65b034608a33af16ef",
         "type": "Directory",
         "description": "Directory \"src\\posts\\hi-folks\"",
         "owner": "gatsby-source-filesystem"
@@ -1269,10 +1269,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T20:07:11.669Z",
-      "accessTime": "2018-07-24T20:07:11.669Z",
-      "changeTime": "2018-07-24T20:07:11.669Z",
-      "birthTime": "2018-07-24T20:07:11.668Z",
+      "modifiedTime": "2018-07-24T21:52:36.186Z",
+      "accessTime": "2018-07-24T21:52:36.186Z",
+      "changeTime": "2018-07-24T21:52:36.186Z",
+      "birthTime": "2018-07-24T21:52:36.184Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "hi-folks",
@@ -1285,22 +1285,22 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 5348024557566306,
-      "atimeMs": 1532462831668.7087,
-      "mtimeMs": 1532462831668.7087,
-      "ctimeMs": 1532462831668.7087,
-      "birthtimeMs": 1532462831668.0007,
-      "atime": "2018-07-24T20:07:11.669Z",
-      "mtime": "2018-07-24T20:07:11.669Z",
-      "ctime": "2018-07-24T20:07:11.669Z",
-      "birthtime": "2018-07-24T20:07:11.668Z"
+      "ino": 1407374884654509,
+      "atimeMs": 1532469156186.145,
+      "mtimeMs": 1532469156186.145,
+      "ctimeMs": 1532469156186.145,
+      "birthtimeMs": 1532469156184.1523,
+      "atime": "2018-07-24T21:52:36.186Z",
+      "mtime": "2018-07-24T21:52:36.186Z",
+      "ctime": "2018-07-24T21:52:36.186Z",
+      "birthtime": "2018-07-24T21:52:36.184Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c7b380b5863effb0e18afb7a06bf978b",
+        "contentDigest": "00288225156c37f60c4f04b0a7785827",
         "type": "Directory",
         "description": "Directory \"src\\posts\\my-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1311,10 +1311,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T20:07:11.671Z",
-      "accessTime": "2018-07-24T20:07:11.671Z",
-      "changeTime": "2018-07-24T20:07:11.671Z",
-      "birthTime": "2018-07-24T20:07:11.670Z",
+      "modifiedTime": "2018-07-24T21:52:36.191Z",
+      "accessTime": "2018-07-24T21:52:36.191Z",
+      "changeTime": "2018-07-24T21:52:36.191Z",
+      "birthTime": "2018-07-24T21:52:36.189Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts",
       "base": "my-second-post",
@@ -1327,60 +1327,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4222124650723699,
-      "atimeMs": 1532462831670.9402,
-      "mtimeMs": 1532462831670.9402,
-      "ctimeMs": 1532462831670.9402,
-      "birthtimeMs": 1532462831669.9749,
-      "atime": "2018-07-24T20:07:11.671Z",
-      "mtime": "2018-07-24T20:07:11.671Z",
-      "ctime": "2018-07-24T20:07:11.671Z",
-      "birthtime": "2018-07-24T20:07:11.670Z"
-    },
-    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file": {
-      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
-      "children": [
-        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "bcbab5efa47e99b44f7789dedf3f8a03",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src\\posts\\hello-world\\index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md",
-      "relativePath": "hello-world/index.md",
-      "extension": "md",
-      "size": 881,
-      "prettySize": "881 B",
-      "modifiedTime": "2018-07-24T20:07:11.673Z",
-      "accessTime": "2018-07-24T20:07:11.666Z",
-      "changeTime": "2018-07-24T20:07:11.673Z",
-      "birthTime": "2018-07-24T20:07:11.666Z",
-      "root": "C:/",
-      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "hello-world",
-      "dev": 2867745750,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 6755399441119585,
-      "atimeMs": 1532462831665.8933,
-      "mtimeMs": 1532462831672.935,
-      "ctimeMs": 1532462831672.935,
-      "birthtimeMs": 1532462831665.8933,
-      "atime": "2018-07-24T20:07:11.666Z",
-      "mtime": "2018-07-24T20:07:11.673Z",
-      "ctime": "2018-07-24T20:07:11.673Z",
-      "birthtime": "2018-07-24T20:07:11.666Z"
+      "ino": 1407374884654511,
+      "atimeMs": 1532469156191.1404,
+      "mtimeMs": 1532469156191.1404,
+      "ctimeMs": 1532469156191.1404,
+      "birthtimeMs": 1532469156189.1309,
+      "atime": "2018-07-24T21:52:36.191Z",
+      "mtime": "2018-07-24T21:52:36.191Z",
+      "ctime": "2018-07-24T21:52:36.191Z",
+      "birthtime": "2018-07-24T21:52:36.189Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file",
@@ -1401,10 +1356,10 @@
       "extension": "md",
       "size": 414,
       "prettySize": "414 B",
-      "modifiedTime": "2018-07-24T20:07:11.679Z",
-      "accessTime": "2018-07-24T20:07:11.671Z",
-      "changeTime": "2018-07-24T20:07:11.679Z",
-      "birthTime": "2018-07-24T20:07:11.671Z",
+      "modifiedTime": "2018-07-24T21:51:02.238Z",
+      "accessTime": "2018-07-24T21:52:36.191Z",
+      "changeTime": "2018-07-24T21:51:02.238Z",
+      "birthTime": "2018-07-24T21:52:36.191Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post",
       "base": "index.md",
@@ -1417,15 +1372,60 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 5066549580855671,
-      "atimeMs": 1532462831670.9402,
-      "mtimeMs": 1532462831679.1616,
-      "ctimeMs": 1532462831679.1616,
-      "birthtimeMs": 1532462831670.9402,
-      "atime": "2018-07-24T20:07:11.671Z",
-      "mtime": "2018-07-24T20:07:11.679Z",
-      "ctime": "2018-07-24T20:07:11.679Z",
-      "birthtime": "2018-07-24T20:07:11.671Z"
+      "ino": 1407374884654512,
+      "atimeMs": 1532469156191.1404,
+      "mtimeMs": 1532469062237.753,
+      "ctimeMs": 1532469062237.753,
+      "birthtimeMs": 1532469156191.1404,
+      "atime": "2018-07-24T21:52:36.191Z",
+      "mtime": "2018-07-24T21:51:02.238Z",
+      "ctime": "2018-07-24T21:51:02.238Z",
+      "birthtime": "2018-07-24T21:52:36.191Z"
+    },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
+      "children": [
+        "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "bcbab5efa47e99b44f7789dedf3f8a03",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src\\posts\\hello-world\\index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md",
+      "relativePath": "hello-world/index.md",
+      "extension": "md",
+      "size": 881,
+      "prettySize": "881 B",
+      "modifiedTime": "2018-07-24T21:51:02.221Z",
+      "accessTime": "2018-07-24T21:52:36.179Z",
+      "changeTime": "2018-07-24T21:51:02.221Z",
+      "birthTime": "2018-07-24T21:52:36.179Z",
+      "root": "C:/",
+      "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hello-world",
+      "dev": 2867745750,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884654507,
+      "atimeMs": 1532469156179.0789,
+      "mtimeMs": 1532469062220.7986,
+      "ctimeMs": 1532469062220.7986,
+      "birthtimeMs": 1532469156179.0789,
+      "atime": "2018-07-24T21:52:36.179Z",
+      "mtime": "2018-07-24T21:51:02.221Z",
+      "ctime": "2018-07-24T21:51:02.221Z",
+      "birthtime": "2018-07-24T21:52:36.179Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md absPath of file",
@@ -1446,10 +1446,10 @@
       "extension": "md",
       "size": 5612,
       "prettySize": "5.61 kB",
-      "modifiedTime": "2018-07-24T20:07:11.678Z",
-      "accessTime": "2018-07-24T20:07:11.669Z",
-      "changeTime": "2018-07-24T20:07:11.678Z",
-      "birthTime": "2018-07-24T20:07:11.669Z",
+      "modifiedTime": "2018-07-24T21:51:02.221Z",
+      "accessTime": "2018-07-24T21:52:36.186Z",
+      "changeTime": "2018-07-24T21:51:02.221Z",
+      "birthTime": "2018-07-24T21:52:36.186Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks",
       "base": "index.md",
@@ -1462,36 +1462,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4503599627434354,
-      "atimeMs": 1532462831668.7087,
-      "mtimeMs": 1532462831677.9565,
-      "ctimeMs": 1532462831677.9565,
-      "birthtimeMs": 1532462831668.7087,
-      "atime": "2018-07-24T20:07:11.669Z",
-      "mtime": "2018-07-24T20:07:11.678Z",
-      "ctime": "2018-07-24T20:07:11.678Z",
-      "birthtime": "2018-07-24T20:07:11.669Z"
-    },
-    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: Hello World\r\ndate: \"2015-05-01T22:12:03.284Z\"\r\npath: \"/hello-world/\"\r\n---\r\n\r\nThis is my first post on my new fake blog! How exciting!\r\n\r\nI'm sure I'll write a lot more interesting things in the future.\r\n\r\nOh, and here's a great quote from this Wikipedia on [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\r\n\r\n>A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.\r\n\r\n![Chinese Salty Egg](./salty_egg.jpg)\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "007b5ebeb930463a6363975c6ade08f8",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Hello World",
-        "date": "2015-05-01T22:12:03.284Z",
-        "path": "/hello-world/",
-        "_PARENT": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
-        "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\r\nThis is my first post on my new fake blog! How exciting!\r\n\r\nI'm sure I'll write a lot more interesting things in the future.\r\n\r\nOh, and here's a great quote from this Wikipedia on [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\r\n\r\n>A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.\r\n\r\n![Chinese Salty Egg](./salty_egg.jpg)\r\n",
-      "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md"
+      "ino": 1407374884654510,
+      "atimeMs": 1532469156186.145,
+      "mtimeMs": 1532469062220.7986,
+      "ctimeMs": 1532469062220.7986,
+      "birthtimeMs": 1532469156186.145,
+      "atime": "2018-07-24T21:52:36.186Z",
+      "mtime": "2018-07-24T21:51:02.221Z",
+      "ctime": "2018-07-24T21:51:02.221Z",
+      "birthtime": "2018-07-24T21:52:36.186Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark",
@@ -1535,6 +1514,27 @@
       "rawMarkdownBody": "\r\nFar far away, behind the word mountains, far from the countries Vokalia\r\nand Consonantia, there live the blind texts. Separated they live in\r\nBookmarksgrove right at the coast of the Semantics, a large language\r\nocean. A small river named Duden flows by their place and supplies it\r\nwith the necessary regelialia.\r\n\r\n## On deer horse aboard tritely yikes and much\r\n\r\nThe Big Oxmox advised her not to do so, because there were thousands of\r\nbad Commas, wild Question Marks and devious Semikoli, but the Little\r\nBlind Text didn’t listen. She packed her seven versalia, put her initial\r\ninto the belt and made herself on the way.\r\n\r\n*   This however showed weasel\r\n*   Well uncritical so misled\r\n    *   this is very interesting\r\n*   Goodness much until that fluid owl\r\n\r\nWhen she reached the first hills of the **Italic Mountains**, she\r\nhad a last view back on the skyline of her\r\nhometown _Bookmarksgrove_, the headline of [Alphabet\r\nVillage](http://google.com) and the subline of her own road, the\r\nLine Lane. Pityful a rethoric question ran over her cheek, then she\r\ncontinued her way. On her way she met a copy.\r\n\r\n### Overlaid the jeepers uselessly much excluding\r\n\r\nBut nothing the copy said could convince her and so it didn’t take\r\nlong until a few insidious Copy Writers ambushed her, made her drunk\r\nwith [Longe and Parole](http://google.com) and dragged her into\r\ntheir agency, where they abused her for their projects again and\r\nagain. And if she hasn’t been rewritten, then they are still using\r\nher.\r\n\r\n> Far far away, behind the word mountains, far from the countries\r\n> Vokalia and Consonantia, there live the blind texts. Separated\r\n> they live in Bookmarksgrove right at the coast of the Semantics, a\r\n> large language ocean. \r\n\r\nIt is a paradisematic country, in which roasted parts of sentences\r\nfly into your mouth. Even the all-powerful Pointing has no control\r\nabout the blind texts it is an almost unorthographic life One day\r\nhowever a small line of blind text by the name of Lorem Ipsum\r\ndecided to leave for the far World of Grammar.\r\n\r\n### According a funnily until pre-set or arrogant well cheerful\r\n\r\nThe Big Oxmox advised her not to do so, because there were thousands\r\nof bad Commas, wild Question Marks and devious Semikoli, but the\r\nLittle Blind Text didn’t listen. She packed her seven versalia, put\r\nher initial into the belt and made herself on the way.\r\n\r\n1.  So baboon this\r\n2.  Mounted militant weasel gregariously admonishingly straightly hey\r\n3.  Dear foresaw hungry and much some overhung\r\n4.  Rash opossum less because less some amid besides yikes jeepers frenetic impassive fruitlessly shut\r\n\r\nWhen she reached the first hills of the Italic Mountains, she had a\r\nlast view back on the skyline of her hometown Bookmarksgrove, the\r\nheadline of Alphabet Village and the subline of her own road, the\r\nLine Lane. Pityful a rethoric question ran over her cheek, then she\r\ncontinued her way. On her way she met a copy.\r\n\r\n> The copy warned the Little Blind Text, that where it came from it\r\n> would have been rewritten a thousand times and everything that was\r\n> left from its origin would be the word \"and\" and the Little Blind\r\n> Text should turn around and return to its own, safe country.\r\n\r\nBut nothing the copy said could convince her and so it didn’t take\r\nlong until a few insidious Copy Writers ambushed her, made her drunk\r\nwith Longe and Parole and dragged her into their agency, where they\r\nabused her for their projects again and again. And if she hasn’t\r\nbeen rewritten, then they are still using her. Far far away, behind\r\nthe word mountains, far from the countries Vokalia and Consonantia,\r\nthere live the blind texts.\r\n\r\n#### Silent delightfully including because before one up barring chameleon\r\n\r\nSeparated they live in Bookmarksgrove right at the coast of the\r\nSemantics, a large language ocean. A small river named Duden flows\r\nby their place and supplies it with the necessary regelialia. It is\r\na paradisematic country, in which roasted parts of sentences fly\r\ninto your mouth.\r\n\r\nEven the all-powerful Pointing has no control about the blind texts\r\nit is an almost unorthographic life One day however a small line of\r\nblind text by the name of Lorem Ipsum decided to leave for the far\r\nWorld of Grammar. The Big Oxmox advised her not to do so, because\r\nthere were thousands of bad Commas, wild Question Marks and devious\r\nSemikoli, but the Little Blind Text didn’t listen.\r\n\r\n##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along\r\n\r\nShe packed her seven versalia, put her initial into the belt and\r\nmade herself on the way. When she reached the first hills of the\r\nItalic Mountains, she had a last view back on the skyline of her\r\nhometown Bookmarksgrove, the headline of Alphabet Village and the\r\nsubline of her own road, the Line Lane. Pityful a rethoric question\r\nran over her cheek, then she continued her way. On her way she met a\r\ncopy.\r\n\r\n###### Slapped cozy a that lightheartedly and far\r\n\r\nThe copy warned the Little Blind Text, that where it came from it\r\nwould have been rewritten a thousand times and everything that was\r\nleft from its origin would be the word \"and\" and the Little Blind\r\nText should turn around and return to its own, safe country. But\r\nnothing the copy said could convince her and so it didn’t take long\r\nuntil a few insidious Copy Writers ambushed her, made her drunk with\r\nLonge and Parole and dragged her into their agency, where they\r\nabused her for their projects again and again.\r\n",
       "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md"
     },
+    "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: Hello World\r\ndate: \"2015-05-01T22:12:03.284Z\"\r\npath: \"/hello-world/\"\r\n---\r\n\r\nThis is my first post on my new fake blog! How exciting!\r\n\r\nI'm sure I'll write a lot more interesting things in the future.\r\n\r\nOh, and here's a great quote from this Wikipedia on [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\r\n\r\n>A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.\r\n\r\n![Chinese Salty Egg](./salty_egg.jpg)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "007b5ebeb930463a6363975c6ade08f8",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Hello World",
+        "date": "2015-05-01T22:12:03.284Z",
+        "path": "/hello-world/",
+        "_PARENT": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file",
+        "parent": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\r\nThis is my first post on my new fake blog! How exciting!\r\n\r\nI'm sure I'll write a lot more interesting things in the future.\r\n\r\nOh, and here's a great quote from this Wikipedia on [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).\r\n\r\n>A salted duck egg is a Chinese preserved food product made by soaking duck eggs in brine, or packing each egg in damp, salted charcoal. In Asian supermarkets, these eggs are sometimes sold covered in a thick layer of salted charcoal paste. The eggs may also be sold with the salted paste removed, wrapped in plastic, and vacuum packed. From the salt curing process, the salted duck eggs have a briny aroma, a gelatin-like egg white and a firm-textured, round yolk that is bright orange-red in color.\r\n\r\n![Chinese Salty Egg](./salty_egg.jpg)\r\n",
+      "fileAbsolutePath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md"
+    },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/salty_egg.jpg absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/salty_egg.jpg absPath of file",
       "children": [
@@ -1554,10 +1554,10 @@
       "extension": "jpg",
       "size": 684322,
       "prettySize": "684 kB",
-      "modifiedTime": "2018-07-24T20:07:11.685Z",
-      "accessTime": "2018-07-24T20:07:11.672Z",
-      "changeTime": "2018-07-24T20:07:11.685Z",
-      "birthTime": "2018-07-24T20:07:11.672Z",
+      "modifiedTime": "2018-07-24T21:51:02.238Z",
+      "accessTime": "2018-07-24T21:52:36.181Z",
+      "changeTime": "2018-07-24T21:51:02.238Z",
+      "birthTime": "2018-07-24T21:52:36.181Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world",
       "base": "salty_egg.jpg",
@@ -1570,15 +1570,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 4785074604146509,
-      "atimeMs": 1532462831671.938,
-      "mtimeMs": 1532462831685.4988,
-      "ctimeMs": 1532462831685.4988,
-      "birthtimeMs": 1532462831671.938,
-      "atime": "2018-07-24T20:07:11.672Z",
-      "mtime": "2018-07-24T20:07:11.685Z",
-      "ctime": "2018-07-24T20:07:11.685Z",
-      "birthtime": "2018-07-24T20:07:11.672Z"
+      "ino": 1407374884654508,
+      "atimeMs": 1532469156181.042,
+      "mtimeMs": 1532469062237.753,
+      "ctimeMs": 1532469062237.753,
+      "birthtimeMs": 1532469156181.042,
+      "atime": "2018-07-24T21:52:36.181Z",
+      "mtime": "2018-07-24T21:51:02.238Z",
+      "ctime": "2018-07-24T21:51:02.238Z",
+      "birthtime": "2018-07-24T21:52:36.181Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/salty_egg.jpg absPath of file >> ImageSharp",
@@ -1595,7 +1595,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b07d37f94ba6e86b1f860d6aa33325f9",
+        "contentDigest": "4a4803b7f395fd4e952974c3ec79d098",
         "type": "Directory",
         "description": "Directory \"src\\images\"",
         "owner": "gatsby-source-filesystem"
@@ -1606,10 +1606,10 @@
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-07-24T20:07:11.654Z",
-      "accessTime": "2018-07-24T20:07:11.654Z",
-      "changeTime": "2018-07-24T20:07:11.654Z",
-      "birthTime": "2018-07-24T20:07:11.649Z",
+      "modifiedTime": "2018-07-24T21:52:36.161Z",
+      "accessTime": "2018-07-24T21:52:36.161Z",
+      "changeTime": "2018-07-24T21:52:36.161Z",
+      "birthTime": "2018-07-24T21:52:36.155Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src",
       "base": "images",
@@ -1622,15 +1622,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 14355223812289024,
-      "atimeMs": 1532462831654.2993,
-      "mtimeMs": 1532462831654.2993,
-      "ctimeMs": 1532462831654.2993,
-      "birthtimeMs": 1532462831649.386,
-      "atime": "2018-07-24T20:07:11.654Z",
-      "mtime": "2018-07-24T20:07:11.654Z",
-      "ctime": "2018-07-24T20:07:11.654Z",
-      "birthtime": "2018-07-24T20:07:11.649Z"
+      "ino": 1407374884654496,
+      "atimeMs": 1532469156160.819,
+      "mtimeMs": 1532469156160.819,
+      "ctimeMs": 1532469156160.819,
+      "birthtimeMs": 1532469156154.958,
+      "atime": "2018-07-24T21:52:36.161Z",
+      "mtime": "2018-07-24T21:52:36.161Z",
+      "ctime": "2018-07-24T21:52:36.161Z",
+      "birthtime": "2018-07-24T21:52:36.155Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file",
@@ -1651,10 +1651,10 @@
       "extension": "png",
       "size": 4385,
       "prettySize": "4.38 kB",
-      "modifiedTime": "2018-07-24T20:07:11.659Z",
-      "accessTime": "2018-07-24T20:07:11.652Z",
-      "changeTime": "2018-07-24T20:07:11.659Z",
-      "birthTime": "2018-07-24T20:07:11.652Z",
+      "modifiedTime": "2018-07-24T21:51:02.197Z",
+      "accessTime": "2018-07-24T21:52:36.161Z",
+      "changeTime": "2018-07-24T21:51:02.197Z",
+      "birthTime": "2018-07-24T21:52:36.161Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images",
       "base": "overlay.png",
@@ -1667,15 +1667,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 6755399441111972,
-      "atimeMs": 1532462831652.2686,
-      "mtimeMs": 1532462831659.105,
-      "ctimeMs": 1532462831659.105,
-      "birthtimeMs": 1532462831652.2686,
-      "atime": "2018-07-24T20:07:11.652Z",
-      "mtime": "2018-07-24T20:07:11.659Z",
-      "ctime": "2018-07-24T20:07:11.659Z",
-      "birthtime": "2018-07-24T20:07:11.652Z"
+      "ino": 1407374884654499,
+      "atimeMs": 1532469156160.819,
+      "mtimeMs": 1532469062196.862,
+      "ctimeMs": 1532469062196.862,
+      "birthtimeMs": 1532469156160.819,
+      "atime": "2018-07-24T21:52:36.161Z",
+      "mtime": "2018-07-24T21:51:02.197Z",
+      "ctime": "2018-07-24T21:51:02.197Z",
+      "birthtime": "2018-07-24T21:52:36.161Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file >> ImageSharp": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/overlay.png absPath of file >> ImageSharp",
@@ -1706,10 +1706,10 @@
       "extension": "png",
       "size": 156805,
       "prettySize": "157 kB",
-      "modifiedTime": "2018-07-24T20:07:11.657Z",
-      "accessTime": "2018-07-24T20:07:11.650Z",
-      "changeTime": "2018-07-24T20:07:11.657Z",
-      "birthTime": "2018-07-24T20:07:11.650Z",
+      "modifiedTime": "2018-07-24T21:51:02.200Z",
+      "accessTime": "2018-07-24T21:52:36.159Z",
+      "changeTime": "2018-07-24T21:51:02.200Z",
+      "birthTime": "2018-07-24T21:52:36.159Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images",
       "base": "favicon.png",
@@ -1722,15 +1722,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 12666373952026084,
-      "atimeMs": 1532462831650.275,
-      "mtimeMs": 1532462831656.926,
-      "ctimeMs": 1532462831656.926,
-      "birthtimeMs": 1532462831650.275,
-      "atime": "2018-07-24T20:07:11.650Z",
-      "mtime": "2018-07-24T20:07:11.657Z",
-      "ctime": "2018-07-24T20:07:11.657Z",
-      "birthtime": "2018-07-24T20:07:11.650Z"
+      "ino": 1407374884654498,
+      "atimeMs": 1532469156158.8538,
+      "mtimeMs": 1532469062199.8538,
+      "ctimeMs": 1532469062199.8538,
+      "birthtimeMs": 1532469156158.8538,
+      "atime": "2018-07-24T21:52:36.159Z",
+      "mtime": "2018-07-24T21:51:02.200Z",
+      "ctime": "2018-07-24T21:51:02.200Z",
+      "birthtime": "2018-07-24T21:52:36.159Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/favicon.png absPath of file >> ImageSharp": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/favicon.png absPath of file >> ImageSharp",
@@ -1761,10 +1761,10 @@
       "extension": "jpg",
       "size": 995466,
       "prettySize": "995 kB",
-      "modifiedTime": "2018-07-24T20:07:11.667Z",
-      "accessTime": "2018-07-24T20:07:11.654Z",
-      "changeTime": "2018-07-24T20:07:11.667Z",
-      "birthTime": "2018-07-24T20:07:11.654Z",
+      "modifiedTime": "2018-07-24T21:51:02.214Z",
+      "accessTime": "2018-07-24T21:52:36.157Z",
+      "changeTime": "2018-07-24T21:51:02.214Z",
+      "birthTime": "2018-07-24T21:52:36.157Z",
       "root": "C:/",
       "dir": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images",
       "base": "bg.jpg",
@@ -1777,15 +1777,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 19703248369804856,
-      "atimeMs": 1532462831654.2993,
-      "mtimeMs": 1532462831666.9583,
-      "ctimeMs": 1532462831666.9583,
-      "birthtimeMs": 1532462831654.2993,
-      "atime": "2018-07-24T20:07:11.654Z",
-      "mtime": "2018-07-24T20:07:11.667Z",
-      "ctime": "2018-07-24T20:07:11.667Z",
-      "birthtime": "2018-07-24T20:07:11.654Z"
+      "ino": 1407374884654497,
+      "atimeMs": 1532469156156.8254,
+      "mtimeMs": 1532469062213.8167,
+      "ctimeMs": 1532469062213.8167,
+      "birthtimeMs": 1532469156156.8254,
+      "atime": "2018-07-24T21:52:36.157Z",
+      "mtime": "2018-07-24T21:51:02.214Z",
+      "ctime": "2018-07-24T21:51:02.214Z",
+      "birthtime": "2018-07-24T21:52:36.157Z"
     },
     "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/bg.jpg absPath of file >> ImageSharp": {
       "id": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/images/bg.jpg absPath of file >> ImageSharp",
@@ -1795,27 +1795,6 @@
         "contentDigest": "096162b0b02dd780a49fb8fa543ec90a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "764af81a698cf658a2c8654b36aeb152",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
       }
     },
     "SitePage /my-second-post/": {
@@ -1834,7 +1813,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e72e6943d723822be0d060c52bd792a1",
+        "contentDigest": "4e78a8716269e8a3772e7006554ac94b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1855,7 +1834,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da9333a364fe011984adbe550941b5f4",
+        "contentDigest": "da147e49b8fd4ef0e27b4a519938505b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c56021f84619a7dab353d1cceda715be",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1876,7 +1876,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e379ecf0b0044e58c5f2c81cdbd664a0",
+        "contentDigest": "9e52a0ad96663684eae84b8017616efa",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1897,7 +1897,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6f6e19ec637ffa1b9495bee5551a6c86",
+        "contentDigest": "749a7eb3e850c4cbbc8dcddafe77c27a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1905,25 +1905,25 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "e5430eea626a2895eadc06b878b21527"
+    "PLUGINS_HASH": "f0e90c40dc164504bfa0c538c7520248"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
+        "/hello-world/",
         "/hi-folks/",
         "/my-second-post/",
-        "/hello-world/",
         "/new-page/",
         "LAYOUT___index"
+      ],
+      "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world/"
       ],
       "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hi-folks/index.md absPath of file >>> MarkdownRemark": [
         "/hi-folks/"
       ],
       "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/my-second-post/index.md absPath of file >>> MarkdownRemark": [
         "/my-second-post/"
-      ],
-      "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/src/posts/hello-world/index.md absPath of file >>> MarkdownRemark": [
-        "/hello-world/"
       ]
     },
     "connections": {}
