@@ -4,7 +4,7 @@ module.exports = {
     author: "Author",
     description: "Description"
   },
-  pathPrefix: '/',
+  pathPrefix: '/acfromspace.github.io',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

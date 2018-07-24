@@ -1,5 +1,5 @@
 {
-  "name": "space-stone",
+  "name": "acfromspace.github.io",
   "version": "1.0.1",
   "description": "Personal portal to all other locations",
   "author": "AC De Leon <aadeleon@sdsu.edu>",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/acfromspace/github.io"
+    "url": "https://github.com/acfromspace/acfromspace.github.io"
   },
   "scripts": {
     "_comment": "To run these scripts use npm run SCRIPT_NAME, to exit develop process, CTRL + C",
