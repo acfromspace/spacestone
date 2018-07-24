@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/EVADELEON2/Documents/acfromspace.github.io/dimension/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "6237f9c9abb67d2ee05ee172037c1a15",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -217,7 +227,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -1157,14 +1170,16 @@
         "author": "Author",
         "description": "Description"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/acfromspace.github.io",
       "polyfill": true,
-      "buildTime": "2018-07-24T22:16:27.511Z",
+      "buildTime": "2018-07-24T22:30:13.041Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a79cbe27edeb8bde8d25c107d5463183",
+        "contentDigest": "05e826d7be582b9d31343fb5f533920c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1813,7 +1828,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e78a8716269e8a3772e7006554ac94b",
+        "contentDigest": "365604db0491e84d37f7f35edddda770",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1834,7 +1849,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da147e49b8fd4ef0e27b4a519938505b",
+        "contentDigest": "530c63b489094827f53dde0463c8ef7c",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1855,7 +1870,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c56021f84619a7dab353d1cceda715be",
+        "contentDigest": "bc78de4b9e2339928a78ccdea76599c4",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1876,7 +1891,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9e52a0ad96663684eae84b8017616efa",
+        "contentDigest": "589627706c2e73051da71de7c2f84c14",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1897,7 +1912,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "749a7eb3e850c4cbbc8dcddafe77c27a",
+        "contentDigest": "b60d9ef4ae14f247d18b7370ee9384a2",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1926,6 +1941,10 @@
         "/my-second-post/"
       ]
     },
-    "connections": {}
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
   }
 }
