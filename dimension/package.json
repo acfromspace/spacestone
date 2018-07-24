@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "hhttps://github.com/acfromspace/acfromspace.github.io.git"
+    "url": "https://github.com/acfromspace/acfromspace.github.io.git"
   },
   "scripts": {
     "_comment": "To run these scripts use npm run SCRIPT_NAME, to exit develop process, CTRL + C",
