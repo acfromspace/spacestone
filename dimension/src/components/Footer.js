@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = (props) => (
     <footer id="footer" style={props.timeout ? { display: 'none' } : {}}>
-        {/* Put icons here */}
+        {/* Anything goes here */}
     </footer>
 )
 
