@@ -18,7 +18,13 @@ npm install --global gatsby-cli
 # Clone empty repo to desired workspace
 (I usually clone repo to the desktop for easy access)
 
-# Clone in the workspace
+# Create TWO separate branches (IMPORTANT!)
+(I do this in GitKraken) Make 1 branch master and leave it be, make another your dev-build area.
+
+# Dev on the OTHER branch, not MASTER
+(I also do this in GitKraken)
+
+# Clone in the workspace in your favorite text editor
 gatsby new SITE_NAME https://github.com/acfromspace/acfromspace.github.io
 
 # Change directory to your SITE_NAME
