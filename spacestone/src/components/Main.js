@@ -49,6 +49,7 @@ class Main extends React.Component {
             <li><a href="https://soundcloud.com/acfromspace" className="icon fa-soundcloud" target="_blank"></a></li>
             <li><a href="https://open.spotify.com/user/1252712964" className="icon fa-spotify" target="_blank"></a></li>
             <li><a href="https://twitter.com/acfromspace" className="icon fa-twitter" target="_blank"></a></li>
+            <li><a href="https://www.youtube.com/acfromspace" className="icon fa-youtube" target="_blank"></a></li>
           </ul>
           {close}
         </article>
