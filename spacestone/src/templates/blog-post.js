@@ -3,6 +3,8 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import get from 'lodash/get'
 
+// Blogpost template to correctly position graphql items
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark

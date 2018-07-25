@@ -1,14 +1,14 @@
 {
   "name": "spacestone",
-  "description": "Personal portal to realms of the cosmos.",
-  "version": "1.0.0",
+  "description": "Personal portal to realms of the cosmos",
+  "version": "2.0.1",
   "author": "AC De Leon",
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-image": "^1.0.55",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-google-analytics": "^1.0.31",
-    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-react-helmet": "^2.0.11",
     "gatsby-plugin-sass": "^1.0.26",
     "gatsby-plugin-sharp": "^1.6.48",
     "gatsby-remark-copy-linked-files": "^1.5.37",

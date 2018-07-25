@@ -1,11 +1,10 @@
 import React from 'react'
-import Link from 'gatsby-link'
+
+// Needed to properly the webpage for some odd reason
 
 const IndexPage = () => (
     <div>
-        <h1>Hi people</h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
+        <h1>What are you doing here?</h1>
     </div>
 )
 
