@@ -1,0 +1,3 @@
+This is used if you need to use this branch to deploy your application.
+Since we're using github.io, all deploys should be in master instead of gh-pages.
+Thus we don't need this branch, but it's here.
