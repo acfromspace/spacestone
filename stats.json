@@ -1,52 +1,36 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-0e457de038803b15879f.js",
-      "path---my-second-post-0e457de038803b15879f.js.map"
+    "path---secret": [
+      "path---secret-58edebcef7412c14a387.js",
+      "path---secret-58edebcef7412c14a387.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-23a66785a9b9f5e08795.js",
-      "component---src-pages-index-js-23a66785a9b9f5e08795.js.map"
+      "component---src-pages-index-js-70366372e67192474440.js",
+      "component---src-pages-index-js-70366372e67192474440.js.map"
     ],
     "path---": [
       "path----21d8d57d1d6d15e1e795.js",
       "path----21d8d57d1d6d15e1e795.js.map"
     ],
-    "path---new-page": [
-      "path---new-page-09955e0f5361f222a874.js",
-      "path---new-page-09955e0f5361f222a874.js.map"
-    ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-b6d7c593af478a65a1df.js",
-      "component---src-templates-blog-post-js-b6d7c593af478a65a1df.js.map"
+      "component---src-templates-blog-post-js-b6345b8b1099cd0435ff.js",
+      "component---src-templates-blog-post-js-b6345b8b1099cd0435ff.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d9ce7060c1de6e04326c.js",
-      "component---src-layouts-index-js-d9ce7060c1de6e04326c.js.map"
-    ],
-    "path---hi-folks": [
-      "path---hi-folks-c17cf1d03797e33ac30b.js",
-      "path---hi-folks-c17cf1d03797e33ac30b.js.map"
+      "component---src-layouts-index-js-7d206cd7ae19589abaa6.js",
+      "component---src-layouts-index-js-7d206cd7ae19589abaa6.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---hello-world": [
-      "path---hello-world-3466d701a665d2fe1628.js",
-      "path---hello-world-3466d701a665d2fe1628.js.map"
-    ],
     "commons": [
-      "commons-0715db58e0ff93ec7b1f.js",
-      "commons-0715db58e0ff93ec7b1f.js.map"
-    ],
-    "component---src-pages-new-page-js": [
-      "component---src-pages-new-page-js-e6368b5e95be6e8ea855.js",
-      "component---src-pages-new-page-js-e6368b5e95be6e8ea855.js.map"
+      "commons-d9af17c8f45a7971e9d8.js",
+      "commons-d9af17c8f45a7971e9d8.js.map"
     ],
     "app": [
-      "app-17b6c423e9c4fa4013ff.js",
-      "app-17b6c423e9c4fa4013ff.js.map"
+      "app-053bb3c1e7727dc18974.js",
+      "app-053bb3c1e7727dc18974.js.map"
     ]
   }
 }
