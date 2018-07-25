@@ -41,7 +41,7 @@
 		}
 
 		&:after {
-			@include vendor('transform', 'scale(1.125)');
+			@include vendor('transform', 'scale(1.000)');
 			@include vendor('transition', (
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
@@ -55,7 +55,7 @@
 
 		.body.is-article-visible & {
 			&:after {
-				@include vendor('transform', 'scale(1.0825)');
+				@include vendor('transform', 'scale(1.010)');
 				@include vendor('filter', 'blur(0.2rem)');
 			}
 		}
