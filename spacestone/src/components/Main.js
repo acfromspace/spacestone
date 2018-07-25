@@ -23,8 +23,8 @@ class Main extends React.Component {
              I have recently graduated from San Diego State University with a B.S. in Computer Science.</p>
           <p>I create <a href="https://www.flickr.com/people/andrewthelion/" target="_blank">photography</a>, <a href="https://www.youtube.com/watch?v=hzmfGUfRsQo" target="_blank">videography</a>, <a href="https://soundcloud.com/acfromspace/im-not-yours-anymore" target="_blank">lo-fi</a>, and do powerlifting when I'm not otherwise coding.</p>
           <p>Forever learning because nobody really knows everything.</p>
-          {/* ADD RESUME HERE POSSIBLY? */}
-          {/* <p>Please <a href="javascript:;" onClick={() => { props.onOpenArticle('contact') }}>contact me</a> if you'd like to work together.</p> */}
+          {/* Resume link to google drive */}
+          <p>Here is my <a href="https://drive.google.com/open?id=1IEawrbAU3pTcfx9TfDjKcHwNunFom4in" target="_blank">resume</a>, let's connect.</p>
           {close}
         </article>
 
