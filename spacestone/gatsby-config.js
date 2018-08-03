@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "AC DE LEON",
+    title: "acfromspace",
     author: "AC DE LEON",
-    description: "Who am I?"
+    description: "Personal portal to realms of the cosmos."
   },
   pathPrefix: '/',
   plugins: [
