@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{110:function(t,o){t.exports={data:{site:{siteMetadata:{title:"acfromspace",description:"Personal portal to realms of the cosmos."}}},layoutContext:{}}}});
-//# sourceMappingURL=path----79fb09e7d951fa9f54b8.js.map
