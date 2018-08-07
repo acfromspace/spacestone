@@ -4,7 +4,6 @@ import React from 'react'
 
 const IndexPage = () => (
     <div>
-        <h1>What are you doing here?</h1>
     </div>
 )
 
