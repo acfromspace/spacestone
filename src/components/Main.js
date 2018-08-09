@@ -22,11 +22,11 @@ class Main extends React.Component {
           <p>I'm a front-end developer, <a href="https://acfromspace.itch.io/" target="_blank">game developer</a>,
               and creative director for the <a href="https://aztecgamelab.com/" target="_blank">Aztec Game Lab</a>.
               I have recently graduated from San Diego State University with a B.S. in Computer Science.
-              I manage a <a href="https://acfromspace.netlify.com" target="_blank">blog</a> filled with software development and personal development in order to document my learnings.</p>
-          <p>I create <a href="https://flickr.com/people/andrewthelion/" target="_blank">photography</a>,{' '}
+              I manage a <a href="https://timestone.netlify.com" target="_blank">blog</a> filled with software development and personal development in order to document my learnings.</p>
+          <p>I create <a href="https://unsplash.com/@acfromspace" target="_blank">photography</a>,{' '}
               <a href="https://youtube.com/watch?v=hzmfGUfRsQo" target="_blank">videography</a>,{' '}
               <a href="https://soundcloud.com/acfromspace/im-not-yours-anymore" target="_blank">lo-fi</a>, and do{' '}
-              <a href="https://flic.kr/p/28mfG8T" target="_blank">powerlifting</a> when I'm not otherwise coding.</p>
+              <a href="https://tinyurl.com/standardworkout" target="_blank">powerlifting</a> when I'm not otherwise coding.</p>
           <p>Forever learning because nobody really knows everything.</p>
           {/* Resume link to google drive */}
           <p>Here is my <a href="https://drive.google.com/open?id=1IEawrbAU3pTcfx9TfDjKcHwNunFom4in" target="_blank">resume</a>, let's connect!</p>
@@ -74,15 +74,10 @@ class Main extends React.Component {
             {/* Figure out what exactly is <span className="label">Twitter</span> */}
             {/* Answer: It's used mainly to tag inline elements, primarily for readability for the developer (but why not just use comments?) */}
             <li><a href="https://github.com/acfromspace" className="icon fa-github" target="_blank"></a></li>
-            <li><a href="https://inkedin.com/in/ac-de-leon-81782980/" className="icon fa-linkedin" target="_blank"></a></li>
-            <li><a href="https://flickr.com/people/andrewthelion/" className="icon fa-flickr" target="_blank" ></a></li>
+            <li><a href="https://linkedin.com/in/ac-de-leon-81782980/" className="icon fa-linkedin" target="_blank"></a></li>
             <li><a href="https://acfromspace.itch.io/" className="icon fa-gamepad" target="_blank"></a></li>
-            <li><a href="https://unsplash.com/@acfromspace" className="icon fa-camera-retro" target="_blank"></a></li>
-            <li><a href="https://instagram.com/acfromspace/" className="icon fa-instagram" target="_blank"></a></li>
-            <li><a href="https://soundcloud.com/acfromspace" className="icon fa-soundcloud" target="_blank"></a></li>
             <li><a href="https://open.spotify.com/user/1252712964" className="icon fa-spotify" target="_blank"></a></li>
             <li><a href="https://twitter.com/acfromspace" className="icon fa-twitter" target="_blank"></a></li>
-            <li><a href="https://youtube.com/acfromspace" className="icon fa-youtube" target="_blank"></a></li>
           </ul>
           {close}
         </article>

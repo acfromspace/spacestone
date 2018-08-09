@@ -1,10 +1,9 @@
 import React from 'react'
 
-// Needed to properly the webpage for some odd reason
+// Needed to properly display the webpage
 
 const IndexPage = () => (
     <div>
-        <h1>What are you doing here?</h1>
     </div>
 )
 
