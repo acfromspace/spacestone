@@ -65,6 +65,8 @@ You can get a new Gatsby site up and running on your local dev environment as so
     # Gatsby command to create a live server on your end
     gatsby develop
     ```
+    
+    **Note:** Performing `gatsby develop` will create `.cache` and `public` folders which help run the website on your local server. These will not be pushed to the repo online, but locally on your own machine.
 
 3.  **Open the source code and start editing!**
 
@@ -123,7 +125,7 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
     11 ├── package.json
     12 └── README.md
 
-  1.  **`/node_modules`**: The directory where all of the modules of code that your project depends on (npm packages) are automatically installed.  
+  1.  **`/node_modules`**: The directory where all of the modules of  code that your project depends on (npm packages) are automatically installed.  
   
   2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “Src” is a convention for “source code”.
 
