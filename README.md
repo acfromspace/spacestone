@@ -103,6 +103,8 @@ You can get a new Gatsby site up and running on your local dev environment as so
     [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/acfromspace/spacestone)
 
 
+**Note:** Google Analytics is used for this project. To use it, create an account with Google Analytics and receive a key. Then create a `.env` file at the root of your project with `GOOGLE_ANALYTICS_ID=YOUR_ID_HERE`. This will then track users who visit your website. If you wish not to use Google Analytics, simply comment out section in `gatsby-config.js`.
+
 At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. Any questions? Put an issue onto the repo and we'll sort it out!
 
 <!-- WHAT'S INSIDE? -->
