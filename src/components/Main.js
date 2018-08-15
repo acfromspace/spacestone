@@ -29,7 +29,7 @@ class Main extends React.Component {
               <a href="https://tinyurl.com/standardworkout" target="_blank">powerlifting</a> when I'm not otherwise coding.</p>
           <p>Forever learning because nobody really knows everything.</p>
           {/* Resume link to google drive */}
-          <p>Here is my <a href="https://drive.google.com/open?id=1IEawrbAU3pTcfx9TfDjKcHwNunFom4in" target="_blank">resume</a>, let's connect!</p>
+          <p>Here is my <a href="https://resume.creddle.io/resume/ayjgtizt9n7" target="_blank">resume</a>, let's connect!</p>
           {close}
         </article>
 
