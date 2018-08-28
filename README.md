@@ -113,12 +113,23 @@ You can get a new Gatsby site up and running on your local dev environment as so
     <!-- NETLIFY BUTTON -->
     [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/acfromspace/spacestone)
 
+    At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. 
 
-**Note:** Google Analytics is used for this project. To use it, create an account with Google Analytics and receive a key. Then create a `.env` file at the root of your project with `GOOGLE_ANALYTICS_ID=YOUR_ID_HERE`. This will then track users who visit your website. If you wish not to use Google Analytics, simply comment out the section in `gatsby-config.js`.
+    Any questions? Put an issue onto the repo and we'll sort it out!
 
-At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. 
+<!-- EXTERNAL SERVICES -->
 
-Any questions? Put an issue onto the repo and we'll sort it out!
+## <span role="img" aria-label="Doggo">🐕</span> Fetch information doggo! (External Services)
+
+The starter uses external services for analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
+
+Create an `.env` file like below in the root folder. Change `...` placeholders with your own keys.
+
+```text
+GOOGLE_ANALYTICS_ID=...
+```
+
+If you wish not to use external services, simply comment out the respective sections in `gatsby-config.js`.
 
 <!-- WHAT'S INSIDE? -->
 
