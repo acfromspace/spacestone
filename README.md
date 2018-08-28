@@ -163,7 +163,7 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
 
   1.  **`/node_modules`**: The directory where all of the modules of  code that your project depends on (npm packages) are automatically installed.  
   
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “Src” is a convention for “source code”.
+  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “src” is a convention for “source code”.
 
   3. **`/static`**: The directory where HTML dependencies lie. Normally the `favicon.ico` (the image next to the title in the browser tab), goes here.
 
