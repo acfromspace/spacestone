@@ -19,9 +19,18 @@
 
 <!-- INFORMATION (Shields:IO) -->
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/acfromspace/spacestone/blob/master/LICENSE) ![Location](https://img.shields.io/badge/location-compromised%20by%20Thanos-red.svg)
+<p align="center">
+    <a href="https://github.com/acfromspace/spacestone/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
+            alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/location-compromised%20by%20Thanos-red.svg"
+            alt="Location: Compromised by Thanos">
+    <a href="https://twitter.com/intent/follow?screen_name=acfromspace">
+        <img src="https://img.shields.io/twitter/follow/acfromspace.svg?style=social&logo=twitter"
+            alt="Follow @acfromspace"></a>
+</p>
 
-<!-- FEATURES -->
+<!-- FEATURES (Gif goes right below) -->
 
 *spacestone* is an entry portal website with the following features:
 
@@ -121,7 +130,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
 
 ## <span role="img" aria-label="Doggo">🐕</span> Fetch information doggo! (External Services)
 
-The starter uses external services for analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
+The starter uses external services for analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal project.
 
 Create an `.env` file like below in the root folder. Change `...` placeholders with your own key.
 
