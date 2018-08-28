@@ -123,7 +123,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
 
 The starter uses external services for analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal blog.
 
-Create an `.env` file like below in the root folder. Change `...` placeholders with your own keys.
+Create an `.env` file like below in the root folder. Change `...` placeholders with your own key.
 
 ```text
 GOOGLE_ANALYTICS_ID=...
