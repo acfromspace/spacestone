@@ -10,7 +10,7 @@
 <!-- DESCRIPTION -->
 
 <h3 align="center">
-  ☄️
+  <span role="img" aria-label="Comet">☄️</span>
 </h3>
 <p align="center">
   <strong>Personal portal to realms of the cosmos.</strong><br>
@@ -19,21 +19,45 @@
 
 <!-- INFORMATION (Shields:IO) -->
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/acfromspace/spacestone/blob/master/LICENSE) ![Location](https://img.shields.io/badge/location-compromised%20by%20Thanos-red.svg)
+<p align="center">
+    <a href="https://github.com/acfromspace/spacestone/blob/master/LICENSE">
+        <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
+            alt="License: MIT"></a>
+    <img src="https://img.shields.io/badge/location-compromised%20by%20Thanos-red.svg"
+            alt="Location: Compromised by Thanos">
+    <a href="https://twitter.com/intent/follow?screen_name=acfromspace">
+        <img src="https://img.shields.io/twitter/follow/acfromspace.svg?style=social&logo=twitter"
+            alt="Follow @acfromspace"></a>
+</p>
 
-<!-- FEATURES -->
+<!-- FEATURES (Gif goes right below) -->
+
+<p align="center">
+  <img src="./static/demo.gif">
+</p>
 
 *spacestone* is an entry portal website with the following features:
 
 - **Blazing fast loading thanks to Gatsby.** Get all the benefits of static websites with none of the limitations. Gatsby sites are fully functional React apps, so you can create high-quality, dynamic web apps, from blogs to ecommerce sites to user dashboards.
 
-- **Customizability.** Within the "src" folder, all adaptable files to be made by the user are available. One can even go further to possibly add in aesthetic javascript node packages to add visuals.
+- **Customizability.** Within the "src" folder, all adaptable files to be made by the user are available. Sass files are included to further the customize the styling. One can even go further to possibly add in aesthetic javascript node packages to add visuals.
 
 - **Hosted with Netlify.** Don't get me wrong, GitHub Pages offers great utility for first timers, but as I experienced more with web hosts, I needed something more reliable and easier to use. Netlify offers both web-based and command-line interfaces in order to adapt to an extremely easy and intuitive user interface dependent on the user.
 
-<!-- INSTALLATION -->
+<!-- QUICK INSTALLATION -->
 
-## 🚀 Putting this in the Infinity Gauntlet (Installation)
+## <span role="img" aria-label="Sparkles">✨</span> "Snappy" Installation (Quick Installation)
+
+- Ensure Gatsby is installed on your machine `npm install --global gatsby-cli`
+- Clone the repo `gatsby new YOU_PICK_NAME https://github.com/acfromspace/spacestone`
+- Change directory `cd YOU_PICK_NAME`
+- Install node packages `npm install`
+- Serve it locally `gatsby develop`
+- Go to `http://localhost:8000`
+
+<!-- IN-DEPTH INSTALLATION -->
+
+## <span role="img" aria-label="Rocket">🚀</span> Putting this in the Infinity Gauntlet (In-Depth Installation)
 
 You can get a new Gatsby site up and running on your local dev environment as soon as possible.
 
@@ -70,7 +94,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
 
 3.  **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`. Open the `YOU_PICK_NAME` directory in your code editor of choice and edit `src/`. Save your changes and the browser will update in real time!
+    Your site is now running at `http://localhost:8000`. Open the `YOU_PICK_NAME` directory in your code editor of choice and edit `src`. Save your changes and the browser will update in real time!
 
 4.  **Push to your Git repository**
 
@@ -93,7 +117,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
 
     I would put the steps here, but Netlify does such a good job guiding people, there's no need to. Simply go on their website, make an account, link up your GitHub, and choose accordingly.
     
-    If it prompts for `build command` and `build location`, but doesn't fill it in automatically, put in `gatsby build` and `public/` respectively.
+    If it prompts for `build command` and `build location`, but doesn't fill it in automatically, put in `gatsby build` and `public` respectively.
 
     To have a demonstration of how easy it is, click on this the button below. 
     
@@ -102,14 +126,27 @@ You can get a new Gatsby site up and running on your local dev environment as so
     <!-- NETLIFY BUTTON -->
     [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/acfromspace/spacestone)
 
+    At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. 
 
-**Note:** Google Analytics is used for this project. To use it, create an account with Google Analytics and receive a key. Then create a `.env` file at the root of your project with `GOOGLE_ANALYTICS_ID=YOUR_ID_HERE`. This will then track users who visit your website. If you wish not to use Google Analytics, simply comment out section in `gatsby-config.js`.
+    Any questions? Put an issue onto the repo and we'll sort it out!
 
-At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. Any questions? Put an issue onto the repo and we'll sort it out!
+<!-- EXTERNAL SERVICES -->
+
+## <span role="img" aria-label="Doggo">🐕</span> Fetch information doggo! (External Services)
+
+The starter uses external services for analytics. To use them you have to secure some access data. All services are free to use or have generous free tiers big enough for a personal project.
+
+Create an `.env` file like below in the root folder. Change `...` placeholders with your own key.
+
+```text
+GOOGLE_ANALYTICS_ID=...
+```
+
+If you wish not to use external services, simply comment out the respective sections in `gatsby-config.js`.
 
 <!-- WHAT'S INSIDE? -->
 
-## 🤔 What's inside?
+## <span role="img" aria-label="Thinking Face">🤔</span> What's inside?
 
 A quick look at the top-level files and directories you'll see in this Gatsby project.
 
@@ -130,13 +167,13 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
 
   1.  **`/node_modules`**: The directory where all of the modules of  code that your project depends on (npm packages) are automatically installed.  
   
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “Src” is a convention for “source code”.
+  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “src” is a convention for “source code”.
 
   3. **`/static`**: The directory where HTML dependencies lie. Normally the `favicon.ico` (the image next to the title in the browser tab), goes here.
 
   4.  **`.babelrc`**: This file enables to write modern JavaScript that will be "transpiled" to widely-supported Javascript. Think of it as a language translator for all devices that will see your website.
   
-  5.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for. For instance, you shouldn't let anyone get your `.env` files (These usually contain your password and such to speak with APIs).
+  5.  **`.gitignore`**: This file tells git which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files (These usually contain your password and such to speak with APIs).
   
   6.  **`.prettierrc`**: This is a configuration file for a tool called [Prettier](https://prettier.io/), which is a tool to help keep the formatting of your code consistent.
   
@@ -144,11 +181,11 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
   
   8.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://next.gatsbyjs.org/docs/gatsby-config/) for more detail).
   
-  9.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby node APIs](https://next.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process. This project contains none, but the file remains if one wishes to build blog posts or of the sort.
+  9.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby node APIs](https://next.gatsbyjs.org/docs/node-apis/) (if any). These allow customizations of default Gatsby settings affecting pieces of the site build process. This project contains none, but the file remains if one wishes to build blog posts or of the sort.
   
   10.  **`LICENSE`**: This project is licensed under the MIT license.
   
-  11.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. (You won’t change this file directly).
+  11.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. (You won’t change this file directly)
   
   12.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
   
