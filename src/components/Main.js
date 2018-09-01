@@ -4,6 +4,10 @@ import Link from 'gatsby-link'
 import agl from '../images/agl.jpg'
 import sirtet from '../images/sirtet.jpg'
 import memebrulee from '../images/memebrulee.jpg'
+import timestone from '../images/timestone.gif'
+import weatherchecker from '../images/weatherchecker.gif'
+
+// <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
 
 // Don't "prettier" this, it'll make it unreadable
 
@@ -39,11 +43,15 @@ class Main extends React.Component {
           <p>I've worked on many types of projects both personal and professional.<br />
             Here are some projects I've developed/created.</p>
 
-          {/* INSERT BLOG IMAGE WHEN MORE POSTS ARE MADE */}
-          {/* <h3><a href="https://aztecgamelab.com" target="_blank">Aztec Game Lab</a></h3>
-          <span className="image main"><img src={agl} alt="" /></span>
-          <p>Front-end developer, <a href="https://acfromspace.itch.io" target="_blank">game developer</a>, designed <a href="https://youtube.com/watch?v=JqLlA0fZ1ck" target="_blank">aesthetics</a> for the <a href="https://go.sdsu.edu/student_affairs/atstate/gamelab.aspx" target="_blank">organization</a><br />
-            <i>Built With: React.js, Node.js, Semantic UI</i></p> */}
+          <h3><a href="https://timestone.netlify.com" target="_blank">Development Blog</a></h3>
+          <span className="image main"><img src={timestone} alt="" /></span>
+          <p>Creator, Front-end developer.<br />
+            <i>Built With: React.js, Node.js, Gatsby.js, Algolia</i></p>
+
+          <h3><a href="https://weatherchecker.netlify.com" target="_blank">Development Blog</a></h3>
+          <span className="image main"><img src={weatherchecker} alt="" /></span>
+          <p>Creator, Front-end developer.<br />
+            <i>Built With: React.js, Node.js, Bootstrap</i></p>
 
           <h3><a href="https://aztecgamelab.com" target="_blank">Aztec Game Lab</a></h3>
           <span className="image main"><img src={agl} alt="" /></span>
