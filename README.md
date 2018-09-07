@@ -14,7 +14,7 @@
 </h3>
 <p align="center">
   <strong>Personal portal to realms of the cosmos.</strong><br>
-  Created with Gatsby in order to showcase my social links and web dev.
+  Created with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby.js</a> in order to showcase my social links and web dev.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
@@ -151,9 +151,9 @@ If you wish not to use external services, simply comment out the respective sect
 A quick look at the top-level files and directories you'll see in this Gatsby project.
 
        .
-    1  ├── node_modules
-    2  ├── src
-    3  ├── static
+    1  ├── node_modules/
+    2  ├── src/
+    3  ├── static/
     4  ├── .babelrc
     5  ├── .gitignore
     6  ├── .prettierrc
@@ -165,11 +165,11 @@ A quick look at the top-level files and directories you'll see in this Gatsby pr
     12 ├── package.json
     13 └── README.md
 
-  1.  **`/node_modules`**: The directory where all of the modules of  code that your project depends on (npm packages) are automatically installed.  
+  1.  **`node_modules/`**: The directory where all of the modules of  code that your project depends on (npm packages) are automatically installed.  
   
-  2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “src” is a convention for “source code”.
+  2.  **`src/`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser), like your site header, or a page template. “src” is a convention for “source code”.
 
-  3. **`/static`**: The directory where HTML dependencies lie. Normally the `favicon.ico` (the image next to the title in the browser tab), goes here.
+  3. **`static/`**: The directory where HTML dependencies lie. Normally the `favicon.ico` (the image next to the title in the browser tab), goes here.
 
   4.  **`.babelrc`**: This file enables to write modern JavaScript that will be "transpiled" to widely-supported Javascript. Think of it as a language translator for all devices that will see your website.
   
