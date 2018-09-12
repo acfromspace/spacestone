@@ -3,9 +3,7 @@
 <p align="center">
   <img src="./src/images/avatarmoon.png" width="60">
 </p>
-<h1 align="center">️
-  spacestone
-</h1>
+<h1 align="center">️spacestone</h1>
 
 <!-- DESCRIPTION -->
 
@@ -113,7 +111,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
     git push -u origin master
     ```
 
-5.  **Create an account with Netlify and follow the steps**
+5.  **Create an account with [Netlify](https://www.netlify.com/) and follow the steps**
 
     I would put the steps here, but Netlify does such a good job guiding people, there's no need to. Simply go on their website, make an account, link up your GitHub, and choose accordingly.
     
@@ -125,6 +123,8 @@ You can get a new Gatsby site up and running on your local dev environment as so
 
     <!-- NETLIFY BUTTON -->
     [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/acfromspace/spacestone)
+
+    For external services (look at the next topic below), Netlify has a section for you to input your `.env` variables on the dashboard!
 
     At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. 
 
