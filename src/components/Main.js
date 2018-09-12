@@ -6,6 +6,7 @@ import sirtet from '../images/sirtet.jpg'
 import memebrulee from '../images/memebrulee.jpg'
 import timestone from '../images/timestone.gif'
 import weatherchecker from '../images/weatherchecker.gif'
+import whoisthecutest from '../images/whoisthecutest.gif'
 
 // <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
 
@@ -25,12 +26,12 @@ class Main extends React.Component {
           <p>Greetings traveler, I'm AC De Leon.</p>
           <p>I'm a front-end developer, <a href="https://acfromspace.itch.io/" target="_blank">game developer</a>,
               and creative director for the <a href="https://aztecgamelab.com/" target="_blank">Aztec Game Lab</a>.
-              I have recently graduated from San Diego State University with a B.S. in Computer Science.
+            I have recently graduated from San Diego State University with a B.S. in Computer Science.
               I manage a <a href="https://timestone.netlify.com" target="_blank">blog</a> filled with software development and personal development in order to document my learnings.</p>
           <p>I create <a href="https://unsplash.com/@acfromspace" target="_blank">photography</a>,{' '}
-              <a href="https://youtube.com/watch?v=hzmfGUfRsQo" target="_blank">videography</a>,{' '}
-              <a href="https://soundcloud.com/acfromspace/im-not-yours-anymore" target="_blank">lo-fi</a>, and do{' '}
-              <a href="https://tinyurl.com/standardworkout" target="_blank">powerlifting</a> when I'm not otherwise coding.</p>
+            <a href="https://youtube.com/watch?v=hzmfGUfRsQo" target="_blank">videography</a>,{' '}
+            <a href="https://soundcloud.com/acfromspace/im-not-yours-anymore" target="_blank">lo-fi</a>, and do{' '}
+            <a href="https://tinyurl.com/standardworkout" target="_blank">powerlifting</a> when I'm not otherwise coding.</p>
           <p>Forever learning because nobody really knows everything.</p>
           {/* Resume link to google drive */}
           <p>Here is my <a href="https://resume.creddle.io/resume/ayjgtizt9n7" target="_blank">resume</a>, let's connect!</p>
@@ -42,6 +43,11 @@ class Main extends React.Component {
           <h2 className="major">Projects</h2>
           <p>I've worked on many types of projects both personal and professional.<br />
             Here are some projects I've developed/created.</p>
+
+          <h3><a href="https://whoisthecutest.netlify.com" target="_blank">Mental Health website</a></h3>
+          <span className="image main"><img src={whoisthecutest} alt="" /></span>
+          <p>Creator, Front-end developer.<br />
+            <i>Built With: React.js, Node.js, Gatsby.js, Semantic UI</i></p>
 
           <h3><a href="https://timestone.netlify.com" target="_blank">Development Blog</a></h3>
           <span className="image main"><img src={timestone} alt="" /></span>
