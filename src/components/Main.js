@@ -48,7 +48,7 @@ class Main extends React.Component {
           <p>Creator, Front-end developer.<br />
             <i>Built With: React.js, Node.js, Gatsby.js, Algolia</i></p>
 
-          <h3><a href="https://weatherchecker.netlify.com" target="_blank">Development Blog</a></h3>
+          <h3><a href="https://weatherchecker.netlify.com" target="_blank">Weather Checker</a></h3>
           <span className="image main"><img src={weatherchecker} alt="" /></span>
           <p>Creator, Front-end developer.<br />
             <i>Built With: React.js, Node.js, Bootstrap</i></p>
