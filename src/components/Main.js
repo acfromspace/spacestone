@@ -123,7 +123,7 @@ class Main extends React.Component {
 
           <h3>
             <a href="https://whoisthecutest.netlify.com" target="_blank">
-              Mental Health website
+              Who is the cutest?
             </a>
           </h3>
           <span className="image main">
