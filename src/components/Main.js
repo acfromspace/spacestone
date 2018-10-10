@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 import agl from '../images/agl.jpg'
-import sirtet from '../images/sirtet.jpg'
+import sirtet from '../images/sirtet.gif'
 import memebrulee from '../images/memebrulee.jpg'
 import timestone from '../images/timestone.gif'
 import weatherchecker from '../images/weatherchecker.gif'
@@ -11,6 +11,7 @@ import whoisthecutest from '../images/whoisthecutest.gif'
 // <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
 
 // Don't "prettier" this, it'll make it unreadable
+// Too late
 
 class Main extends React.Component {
   render() {
