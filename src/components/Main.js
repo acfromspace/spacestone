@@ -164,6 +164,20 @@ class Main extends React.Component {
           </p>
 
           <h3>
+            <a href="https://acfromspace.itch.io/sirtet" target="_blank">
+              Sirtet
+            </a>
+          </h3>
+          <span className="image main">
+            <img src={sirtet} alt="" />
+          </span>
+          <p>
+            Creator (heavily inspired by puzzle game Tetris and Undertale)
+            <br />
+            <i>Built With: Unity, Adobe Photoshop</i>
+          </p>
+
+          <h3>
             <a href="https://aztecgamelab.com" target="_blank">
               Aztec Game Lab
             </a>
@@ -189,20 +203,6 @@ class Main extends React.Component {
             </a>
             <br />
             <i>Built With: React.js, Node.js, Semantic UI</i>
-          </p>
-
-          <h3>
-            <a href="https://acfromspace.itch.io/sirtet" target="_blank">
-              Sirtet
-            </a>
-          </h3>
-          <span className="image main">
-            <img src={sirtet} alt="" />
-          </span>
-          <p>
-            Creator (heavily inspired by puzzle game Tetris and Undertale)
-            <br />
-            <i>Built With: Unity, Adobe Photoshop</i>
           </p>
 
           <h3>
