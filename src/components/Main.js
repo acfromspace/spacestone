@@ -44,12 +44,20 @@ class Main extends React.Component {
             <a href="https://github.com/acfromspace" target="_blank">
               front-end developer
             </a>{' '}
-            and{' '}
+            (React/Node) and{' '}
             <a href="https://acfromspace.itch.io/" target="_blank">
               game developer
-            </a>
-            . I've recently graduated from San Diego State University with a
-            B.S. in Computer Science. I manage a{' '}
+            </a>{' '}
+            (Unity/Unreal). I've recently graduated from San Diego State
+            University with a B.S. in Computer Science. Currently I do freelance
+            software development, work with colleagues on our{' '}
+            <a
+              href="https://github.com/AztecGameLab/AztecGameLaboratory"
+              target="_blank"
+            >
+              super cool React project
+            </a>{' '}
+            , and manage a{' '}
             <a href="https://timestone.netlify.com" target="_blank">
               blog
             </a>{' '}
@@ -58,22 +66,33 @@ class Main extends React.Component {
           </p>
           <p>
             I create{' '}
-            <a href="https://unsplash.com/@acfromspace" target="_blank">
+            <a
+              href="https://www.flickr.com/people/andrewthelion/"
+              target="_blank"
+            >
               photography
             </a>
             ,{' '}
             <a href="https://youtube.com/watch?v=hzmfGUfRsQo" target="_blank">
               videography
             </a>
+            ,{' '}
+            <a
+              href="https://soundcloud.com/acfromspace/im-not-yours-anymore"
+              target="_blank"
+            >
+              lo-fi
+            </a>
             , and do{' '}
             <a href="https://tinyurl.com/standardworkout" target="_blank">
               powerlifting
             </a>{' '}
-            when I'm not otherwise coding.
+            in my free time.
           </p>
-          <p>Forever learning because nobody really knows everything.</p>
-          {/* Resume link to google drive */}
           <p>
+            Forever learning because nobody really knows everything.
+            <br />
+            <br />
             Here is my{' '}
             <a
               href="https://resume.creddle.io/resume/ayjgtizt9n7"
@@ -131,20 +150,6 @@ class Main extends React.Component {
           </p>
 
           <h3>
-            <a href="https://acfromspace.itch.io/sirtet" target="_blank">
-              Sirtet
-            </a>
-          </h3>
-          <span className="image main">
-            <img src={sirtet} alt="" />
-          </span>
-          <p>
-            Creator, Game developer.
-            <br />
-            <i>Built With: Unity, Adobe Photoshop</i>
-          </p>
-
-          <h3>
             <a href="https://weatherchecker.netlify.com" target="_blank">
               Weather Checker
             </a>
@@ -159,6 +164,20 @@ class Main extends React.Component {
           </p>
 
           <h3>
+            <a href="https://acfromspace.itch.io/sirtet" target="_blank">
+              Sirtet
+            </a>
+          </h3>
+          <span className="image main">
+            <img src={sirtet} alt="" />
+          </span>
+          <p>
+            Creator (heavily inspired by puzzle game Tetris and Undertale)
+            <br />
+            <i>Built With: Unity, Adobe Photoshop</i>
+          </p>
+
+          <h3>
             <a href="https://aztecgamelab.com" target="_blank">
               Aztec Game Lab
             </a>
@@ -167,7 +186,11 @@ class Main extends React.Component {
             <img src={agl} alt="" />
           </span>
           <p>
-            Art director and front-end developer that designed{' '}
+            Front-end developer,{' '}
+            <a href="https://acfromspace.itch.io" target="_blank">
+              game developer
+            </a>
+            , designed{' '}
             <a href="https://youtube.com/watch?v=JqLlA0fZ1ck" target="_blank">
               aesthetics
             </a>{' '}
@@ -178,7 +201,7 @@ class Main extends React.Component {
             >
               organization
             </a>
-            .<br />
+            <br />
             <i>Built With: React.js, Node.js, Semantic UI</i>
           </p>
 
@@ -195,7 +218,7 @@ class Main extends React.Component {
             <a href="https://youtube.com/watch?v=MJlubZQ1uTo" target="_blank">
               Reactathon
             </a>{' '}
-            using sponsor APIs.
+            using sponsor APIs
             <br />
             <i>
               Built With: React.js, Node.js, Ant-Design UI, Netlify, Opentok
@@ -239,6 +262,13 @@ class Main extends React.Component {
               <a
                 href="https://linkedin.com/in/ac-de-leon-81782980/"
                 className="icon fa-linkedin"
+                target="_blank"
+              />
+            </li>
+            <li>
+              <a
+                href="https://www.flickr.com/people/andrewthelion/"
+                className="icon fa-flickr"
                 target="_blank"
               />
             </li>
