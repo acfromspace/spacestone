@@ -29,7 +29,7 @@ class Main extends React.Component {
         id="main"
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
-        {/* About section */}
+        {/* ABOUT SECTION */}
         <article
           id="about"
           className={`${this.props.article === 'about' ? 'active' : ''} ${
@@ -78,7 +78,7 @@ class Main extends React.Component {
             </a>
             ,{' '}
             <a
-              href="https://soundcloud.com/acfromspace/im-not-yours-anymore"
+              href="https://www.youtube.com/watch?v=d2rHqW4g_iM"
               target="_blank"
             >
               lo-fi
@@ -105,7 +105,7 @@ class Main extends React.Component {
           {close}
         </article>
 
-        {/* Projects section */}
+        {/* PROJECTS SECTION */}
         <article
           id="projects"
           className={`${this.props.article === 'projects' ? 'active' : ''} ${
@@ -121,48 +121,7 @@ class Main extends React.Component {
             Here are some projects I've developed/created.
           </p>
 
-          <h3>
-            <a href="https://whoisthecutest.netlify.com" target="_blank">
-              Who is the cutest?
-            </a>
-          </h3>
-          <span className="image main">
-            <img src={whoisthecutest} alt="" />
-          </span>
-          <p>
-            Creator, Front-end developer.
-            <br />
-            <i>Built With: React.js, Node.js, Gatsby.js, Semantic UI</i>
-          </p>
-
-          <h3>
-            <a href="https://timestone.netlify.com" target="_blank">
-              Development Blog
-            </a>
-          </h3>
-          <span className="image main">
-            <img src={timestone} alt="" />
-          </span>
-          <p>
-            Creator, Front-end developer.
-            <br />
-            <i>Built With: React.js, Node.js, Gatsby.js, Algolia</i>
-          </p>
-
-          <h3>
-            <a href="https://weatherchecker.netlify.com" target="_blank">
-              Weather Checker
-            </a>
-          </h3>
-          <span className="image main">
-            <img src={weatherchecker} alt="" />
-          </span>
-          <p>
-            Creator, Front-end developer.
-            <br />
-            <i>Built With: React.js, Node.js, Bootstrap</i>
-          </p>
-
+          {/* sirtet */}
           <h3>
             <a href="https://acfromspace.itch.io/sirtet" target="_blank">
               Sirtet
@@ -177,6 +136,52 @@ class Main extends React.Component {
             <i>Built With: Unity, Adobe Photoshop</i>
           </p>
 
+          {/* timestone */}
+          <h3>
+            <a href="https://timestone.netlify.com" target="_blank">
+              Development Blog
+            </a>
+          </h3>
+          <span className="image main">
+            <img src={timestone} alt="" />
+          </span>
+          <p>
+            Creator, Front-end developer.
+            <br />
+            <i>Built With: React.js, Node.js, Gatsby.js, Algolia</i>
+          </p>
+
+          {/* weatherchecker */}
+          <h3>
+            <a href="https://weatherchecker.netlify.com" target="_blank">
+              Weather Checker
+            </a>
+          </h3>
+          <span className="image main">
+            <img src={weatherchecker} alt="" />
+          </span>
+          <p>
+            Creator, Front-end developer.
+            <br />
+            <i>Built With: React.js, Node.js, Bootstrap</i>
+          </p>
+
+          {/* whoisthecutest */}
+          <h3>
+            <a href="https://whoisthecutest.netlify.com" target="_blank">
+              Who is the cutest?
+            </a>
+          </h3>
+          <span className="image main">
+            <img src={whoisthecutest} alt="" />
+          </span>
+          <p>
+            Creator, Front-end developer.
+            <br />
+            <i>Built With: React.js, Node.js, Gatsby.js, Semantic UI</i>
+          </p>
+
+          {/* aztecgamelab */}
           <h3>
             <a href="https://aztecgamelab.com" target="_blank">
               Aztec Game Lab
@@ -205,6 +210,7 @@ class Main extends React.Component {
             <i>Built With: React.js, Node.js, Semantic UI</i>
           </p>
 
+          {/* memebrulee */}
           <h3>
             <a href="https://memebrulee.netlify.com/" target="_blank">
               Memebrulee
@@ -234,7 +240,7 @@ class Main extends React.Component {
           {close}
         </article>
 
-        {/* Contact section */}
+        {/* CONTACT SECTION */}
         <article
           id="contact"
           className={`${this.props.article === 'contact' ? 'active' : ''} ${

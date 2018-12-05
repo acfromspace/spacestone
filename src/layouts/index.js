@@ -14,64 +14,60 @@ class Template extends React.Component {
       timeout: false,
       articleTimeout: false,
       article: '',
-      loading: 'is-loading'
+      loading: 'is-loading',
     }
     this.handleOpenArticle = this.handleOpenArticle.bind(this)
     this.handleCloseArticle = this.handleCloseArticle.bind(this)
   }
 
-  componentDidMount () {
+  componentDidMount() {
     this.timeoutId = setTimeout(() => {
-        this.setState({loading: ''});
-    }, 100);
+      this.setState({ loading: '' })
+    }, 100)
   }
 
-  componentWillUnmount () {
+  componentWillUnmount() {
     if (this.timeoutId) {
-        clearTimeout(this.timeoutId);
+      clearTimeout(this.timeoutId)
     }
   }
 
   handleOpenArticle(article) {
-
     this.setState({
       isArticleVisible: !this.state.isArticleVisible,
-      article
+      article,
     })
 
     setTimeout(() => {
       this.setState({
-        timeout: !this.state.timeout
+        timeout: !this.state.timeout,
       })
     }, 325)
 
     setTimeout(() => {
       this.setState({
-        articleTimeout: !this.state.articleTimeout
+        articleTimeout: !this.state.articleTimeout,
       })
     }, 350)
-
   }
 
   handleCloseArticle() {
-
     this.setState({
-      articleTimeout: !this.state.articleTimeout
+      articleTimeout: !this.state.articleTimeout,
     })
 
     setTimeout(() => {
       this.setState({
-        timeout: !this.state.timeout
+        timeout: !this.state.timeout,
       })
     }, 325)
 
     setTimeout(() => {
       this.setState({
         isArticleVisible: !this.state.isArticleVisible,
-        article: ''
+        article: '',
       })
     }, 350)
-
   }
 
   render() {
@@ -81,12 +77,15 @@ class Template extends React.Component {
 
     let rootPath = `/`
 
-    let content;
+    let content
 
     if (location.pathname === rootPath) {
       content = (
         <div id="wrapper">
-          <Header onOpenArticle={this.handleOpenArticle} timeout={this.state.timeout} />
+          <Header
+            onOpenArticle={this.handleOpenArticle}
+            timeout={this.state.timeout}
+          />
           <Main
             isArticleVisible={this.state.isArticleVisible}
             timeout={this.state.timeout}
@@ -100,9 +99,11 @@ class Template extends React.Component {
     } else {
       content = (
         <div id="wrapper" className="page">
-          <div style={{
-            maxWidth: '1140px'
-          }}>
+          <div
+            style={{
+              maxWidth: '1140px',
+            }}
+          >
             {children()}
           </div>
         </div>
@@ -110,15 +111,19 @@ class Template extends React.Component {
     }
 
     return (
-      <div className={`body ${this.state.loading} ${this.state.isArticleVisible ? 'is-article-visible' : ''}`}>
+      <div
+        className={`body ${this.state.loading} ${
+          this.state.isArticleVisible ? 'is-article-visible' : ''
+        }`}
+      >
         <Helmet>
-            <title>{siteTitle}</title>
-            <meta name="description" content={siteDescription} />
+          <title>{siteTitle}</title>
+          <meta name="description" content={siteDescription} />
         </Helmet>
 
         {content}
 
-        <div id="bg"></div>
+        <div id="bg" />
       </div>
     )
   }
