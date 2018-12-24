@@ -1,17 +1,9 @@
 import React from 'react'
-import Link from 'gatsby-link'
+// import Link from 'gatsby-link'
 
-import agl from '../images/agl.jpg'
-import sirtet from '../images/sirtet.gif'
-import memebrulee from '../images/memebrulee.jpg'
-import timestone from '../images/timestone.gif'
-import weatherchecker from '../images/weatherchecker.gif'
-import whoisthecutest from '../images/whoisthecutest.gif'
+// For all incoming images, "Copy Image Location" from respective repo
 
 // <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
-
-// Don't "prettier" this, it'll make it unreadable
-// Too late
 
 class Main extends React.Component {
   render() {
@@ -128,7 +120,10 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={sirtet} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/45566631-22564e80-b80c-11e8-8d9e-5474309409d8.gif"
+              alt="sirtet"
+            />
           </span>
           <p>
             Creator (heavily inspired by puzzle game Tetris and Undertale)
@@ -143,12 +138,33 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={timestone} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/50402901-2967f380-074f-11e9-979a-902279283def.gif"
+              alt="timestone"
+            />
           </span>
           <p>
-            Creator, Front-end developer.
+            Creator, Front-end developer
             <br />
             <i>Built With: React.js, Node.js, Gatsby.js, Algolia</i>
+          </p>
+
+          {/* thisismybeet */}
+          <h3>
+            <a href="https://thisismybeet.netlify.com" target="_blank">
+              This is my Beet
+            </a>
+          </h3>
+          <span className="image main">
+            <img
+              src="https://user-images.githubusercontent.com/10361542/48317465-952f3c00-e5a7-11e8-8cd0-e4b56d6d7b25.gif"
+              alt="thisismybeet"
+            />
+          </span>
+          <p>
+            Creator, Front-end developer
+            <br />
+            <i>Built With: Pure JavaScript, CSS, HTML</i>
           </p>
 
           {/* weatherchecker */}
@@ -158,10 +174,13 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={weatherchecker} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/50403547-45ba5f00-0754-11e9-97da-fcca05bcfaf5.gif"
+              alt="weatherchecker"
+            />
           </span>
           <p>
-            Creator, Front-end developer.
+            Creator, Front-end developer
             <br />
             <i>Built With: React.js, Node.js, Bootstrap</i>
           </p>
@@ -173,10 +192,13 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={whoisthecutest} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/45251420-ac795100-b2fa-11e8-9b3e-a5daae6ae74b.GIF"
+              alt="whoisthecutest"
+            />
           </span>
           <p>
-            Creator, Front-end developer.
+            Creator, Front-end developer
             <br />
             <i>Built With: React.js, Node.js, Gatsby.js, Semantic UI</i>
           </p>
@@ -188,7 +210,10 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={agl} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/50403600-a6e23280-0754-11e9-98a0-fb95271e996d.jpg"
+              alt="agl"
+            />
           </span>
           <p>
             Front-end developer,{' '}
@@ -217,7 +242,10 @@ class Main extends React.Component {
             </a>
           </h3>
           <span className="image main">
-            <img src={memebrulee} alt="" />
+            <img
+              src="https://user-images.githubusercontent.com/10361542/50403604-aa75b980-0754-11e9-9524-03d245c62d60.jpg"
+              alt="memebrulee"
+            />
           </span>
           <p>
             Co-creator, created within 48 hours for{' '}
