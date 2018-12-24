@@ -167,6 +167,24 @@ class Main extends React.Component {
             <i>Built With: Pure JavaScript, CSS, HTML</i>
           </p>
 
+          {/* happyhalloween */}
+          <h3>
+            <a href="https://happyhalloween.netlify.com" target="_blank">
+              Happy Halloween
+            </a>
+          </h3>
+          <span className="image main">
+            <img
+              src="https://user-images.githubusercontent.com/10361542/48293180-b4f12380-e432-11e8-877d-300e55a6ec02.gif"
+              alt="happyhalloween"
+            />
+          </span>
+          <p>
+            Creator, Front-end developer
+            <br />
+            <i>Built With: React.js, Node.js, Gatsby.js, CSS</i>
+          </p>
+
           {/* weatherchecker */}
           <h3>
             <a href="https://weatherchecker.netlify.com" target="_blank">
