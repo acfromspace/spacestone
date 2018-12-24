@@ -34,15 +34,15 @@ class Main extends React.Component {
           <p>
             I'm a{' '}
             <a href="https://github.com/acfromspace" target="_blank">
-              front-end developer
+              software engineer
             </a>{' '}
-            (React/Node) and{' '}
+            and{' '}
             <a href="https://acfromspace.itch.io/" target="_blank">
               game developer
             </a>{' '}
-            (Unity/Unreal). I've recently graduated from San Diego State
-            University with a B.S. in Computer Science. Currently I do freelance
-            software development, work with colleagues on our{' '}
+            . Recently graduated from San Diego State University with a B.S. in
+            Computer Science. Currently I do freelance software development,
+            work with colleagues on our{' '}
             <a
               href="https://github.com/AztecGameLab/AztecGameLaboratory"
               target="_blank"
@@ -54,7 +54,7 @@ class Main extends React.Component {
               blog
             </a>{' '}
             filled with software development and personal development in order
-            to document my learnings.
+            to document my experiences.
           </p>
           <p>
             I create{' '}
