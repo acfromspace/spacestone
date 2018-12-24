@@ -31,10 +31,10 @@
 <!-- FEATURES (Gif goes right below) -->
 
 <p align="center">
-  <img src="./static/demo.gif">
+  <img src="https://user-images.githubusercontent.com/10361542/50405065-14e22600-0764-11e9-9cb0-c59e0d0072d1.gif">
 </p>
 
-[*spacestone*](https://spacestone.netlify.com) is an entry portal website with the following features:
+[_spacestone_](https://spacestone.netlify.com) is an entry portal website with the following features:
 
 - **Blazing fast loading thanks to [Gatsby](https://www.gatsbyjs.org/).** Get all the benefits of static websites with none of the limitations. Gatsby sites are fully functional React apps, so you can create high-quality, dynamic web apps, from blogs to ecommerce sites to user dashboards.
 
@@ -87,7 +87,7 @@ You can get a new Gatsby site up and running on your local dev environment as so
     # Gatsby command to create a live server on your end
     gatsby develop
     ```
-    
+
     **Note:** Performing `gatsby develop` will create `.cache` and `public` folders which help run the website on your local server. These will not be pushed to the repo online, but locally on your own machine.
 
 3.  **Open the source code and start editing!**
@@ -114,19 +114,20 @@ You can get a new Gatsby site up and running on your local dev environment as so
 5.  **Create an account with [Netlify](https://www.netlify.com/) and follow the steps**
 
     I would put the steps here, but Netlify does such a good job guiding people, there's no need to. Simply go on their website, make an account, link up your GitHub, and choose accordingly.
-    
+
     If it prompts for `build command` and `build location`, but doesn't fill it in automatically, put in `gatsby build` and `public` respectively.
 
-    To have a demonstration of how easy it is, click on this the button below. 
-    
-    (Note this will create the website based off of *my version*, so if you have any edits, follow the original steps, this is merely for demo purposes or for those who want a quick start.)
+    To have a demonstration of how easy it is, click on this the button below.
+
+    (Note this will create the website based off of _my version_, so if you have any edits, follow the original steps, this is merely for demo purposes or for those who want a quick start.)
 
     <!-- NETLIFY BUTTON -->
+
     [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/acfromspace/spacestone)
 
     For external services (look at the next topic below), Netlify has a section for you to input your `.env` variables on the dashboard!
 
-    At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify. 
+    At this point, you’ve got a fully functional Gatsby website that anyone can access via Netlify.
 
     Any questions? Put an issue onto the repo and we'll sort it out!
 
