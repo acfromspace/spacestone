@@ -154,35 +154,33 @@ A quick look at the top-level files and directories you'll see in this project.
 ```
    .
 1  ├── node_modules/
-2  ├── public/
-3  ├── src/
-4  ├── static/
-5  ├── .babelrc
-6  ├── .gitignore
-7  ├── .prettierrc
-8  ├── .travis.yml
-9  ├── gatsby-config.js
-10 ├── gatsby-node.js
-11 ├── LICENSE
-12 ├── package-lock.json
-13 ├── package.json
-14 └── README.md
+2  ├── src/
+3  ├── static/
+4  ├── .babelrc
+5  ├── .gitignore
+6  ├── .prettierrc
+7  ├── .travis.yml
+8  ├── gatsby-config.js
+9  ├── gatsby-node.js
+10 ├── LICENSE
+11 ├── package-lock.json
+12 ├── package.json
+13 └── README.md
 ```
 
 1. **`node_modules/`**: Location where [Node.js](https://nodejs.org/en/) packages are installed via [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/).
-2. **`public/`**: What is distributed to the viewing software so everyone can see your greatest creation!
-3. **`src/`**: All development usually occurs here. “src” is a convention for “source code”.
-4. **`static/`**: HTML dependencies.
-5. **`.babelrc`**: This file enables to write modern JavaScript that will be "transpiled" to widely-supported Javascript. Think of it as a language translator for all devices that will see your website.
-6. **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
-7. **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/), a tool to help keep the formatting of your code consistent.
-8. **`.travis.yml`**: This file runs your program's tests every time you commit to GitHub. Point of this is discover right away if a commit broke something and to fix it before it becomes a problem.
-9. **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://next.gatsbyjs.org/docs/gatsby-config/) for more details).
-10. **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://next.gatsbyjs.org/docs/node-apis/) (if any). These allow customizations of default Gatsby settings affecting pieces of the site build process.
-11. **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
-12. **`package-lock.json`** This is an automatically generated file based on the exact versions of your package manager dependencies that were installed for your project. (You won’t change this file directly)
-13. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
-14. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
+2. **`src/`**: All development usually occurs here. “src” is a convention for “source code”.
+3. **`static/`**: HTML dependencies.
+4. **`.babelrc`**: This file enables to write modern JavaScript that will be "transpiled" to widely-supported Javascript. Think of it as a language translator for all devices that will see your website.
+5. **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
+6. **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/), a tool to help keep the formatting of your code consistent.
+7. **`.travis.yml`**: This file runs your program's tests every time you commit to GitHub. Point of this is discover right away if a commit broke something and to fix it before it becomes a problem.
+8. **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://next.gatsbyjs.org/docs/gatsby-config/) for more details).
+9. **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://next.gatsbyjs.org/docs/node-apis/) (if any). These allow customizations of default Gatsby settings affecting pieces of the site build process.
+10. **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
+11. **`package-lock.json`** This is an automatically generated file based on the exact versions of your package manager dependencies that were installed for your project. (You won’t change this file directly)
+12. **`package.json`**: A manifest file for [Node.js](https://nodejs.org/en/) projects, which includes metadata (the project’s name, author, package names, etc.). This manifest is how [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/) knows which packages to install for your project.
+13. **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 
 <!-- LICENSE -->
 
