@@ -50,8 +50,11 @@ class Main extends React.Component {
               super cool React project
             </a>{' '}
             , and manage a{' '}
-            <a href="https://timestone.netlify.com" target="_blank">
-              blog
+            <a
+              href="https://github.com/acfromspace/infinitygauntlet"
+              target="_blank"
+            >
+              repo
             </a>{' '}
             filled with software development and personal development in order
             to document my experiences.
