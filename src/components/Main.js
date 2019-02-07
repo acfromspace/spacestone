@@ -56,8 +56,8 @@ class Main extends React.Component {
             >
               repo
             </a>{' '}
-            filled with software development and personal development in order
-            to document my experiences.
+            filled with knowledge I've procured in order to document my
+            learnings and experiences.
           </p>
           <p>
             I create{' '}
@@ -315,7 +315,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://linkedin.com/in/ac-de-leon-81782980/"
+                href="https://linkedin.com/in/acfromspace/"
                 className="icon fa-linkedin"
                 target="_blank"
               />
