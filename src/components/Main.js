@@ -39,7 +39,7 @@ class Main extends React.Component {
             and{' '}
             <a href="https://acfromspace.itch.io/" target="_blank">
               game developer
-            </a>{' '}
+            </a>
             . Recently graduated from San Diego State University with a B.S. in
             Computer Science. Currently I do freelance software development,
             work with colleagues on our{' '}
@@ -48,7 +48,7 @@ class Main extends React.Component {
               target="_blank"
             >
               super cool React project
-            </a>{' '}
+            </a>
             , and manage a{' '}
             <a
               href="https://github.com/acfromspace/infinitygauntlet"
