@@ -49,6 +49,10 @@ class Main extends React.Component {
             >
               super cool React project
             </a>
+            , fabricate{' '}
+            <a href="https://www.behance.net/acfromspace" target="_blank">
+              designs
+            </a>
             , and manage a{' '}
             <a
               href="https://github.com/acfromspace/infinitygauntlet"
@@ -317,6 +321,13 @@ class Main extends React.Component {
               <a
                 href="https://linkedin.com/in/acfromspace/"
                 className="icon fa-linkedin"
+                target="_blank"
+              />
+            </li>
+            <li>
+              <a
+                href="https://www.behance.net/acfromspace"
+                className="icon fa-behance"
                 target="_blank"
               />
             </li>
