@@ -11,7 +11,7 @@
   <span role="img" aria-label="Comet">☄️</span>
 </h3>
 <p align="center">
-  <strong>Personal portal to realms of the cosmos.</strong><br>
+  <strong>Personal portal to the realms of the cosmos.</strong><br>
   Created with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby.js</a> in order to showcase my social links and web dev.
 </p>
 
