@@ -42,14 +42,7 @@ class Main extends React.Component {
             </a>
             . Recently graduated from San Diego State University with a B.S. in
             Computer Science. Currently I do freelance software development,
-            work with colleagues on our{' '}
-            <a
-              href="https://github.com/AztecGameLab/AztecGameLaboratory"
-              target="_blank"
-            >
-              super cool React project
-            </a>
-            , fabricate{' '}
+            participate in hackathons , fabricate{' '}
             <a href="https://www.behance.net/acfromspace" target="_blank">
               designs
             </a>
@@ -66,7 +59,7 @@ class Main extends React.Component {
           <p>
             I create{' '}
             <a
-              href="https://www.flickr.com/people/andrewthelion/"
+              href="https://www.flickr.com/people/acfromspace/"
               target="_blank"
             >
               photography
@@ -333,7 +326,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://www.flickr.com/people/andrewthelion/"
+                href="https://www.flickr.com/people/acfromspace/"
                 className="icon fa-flickr"
                 target="_blank"
               />
