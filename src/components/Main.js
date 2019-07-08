@@ -1,9 +1,7 @@
 import React from 'react'
-// import Link from 'gatsby-link'
 
-// For all incoming images, "Copy Image Location" from respective repo
-
-// <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
+// For all incoming images, "Copy Image Location" from respective repo.
+// <span className="image main"> creates it so the images are scaled accordingly.
 
 class Main extends React.Component {
   render() {
@@ -30,7 +28,9 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">About</h2>
-          <p>Greetings traveler, I'm AC De Leon.</p>
+          <p>
+            Greetings traveler, I'm AC De Leon <b>(@acfromspace)</b>.
+          </p>
           <p>
             I'm a{' '}
             <a href="https://github.com/acfromspace" target="_blank">
@@ -77,7 +77,7 @@ class Main extends React.Component {
             </a>
             , and do{' '}
             <a href="https://tinyurl.com/standardworkout" target="_blank">
-              powerlifting
+              bodybuilding
             </a>{' '}
             in my free time.
           </p>
@@ -298,11 +298,11 @@ class Main extends React.Component {
           <ul className="icons">
             <p>Feel free to contact me below, I would love to communicate.</p>
             <p>
-              <a href="mailto:aadeleon@sdsu.edu">aadeleon@sdsu.edu</a>
+              <a href="mailto:acfromspace.deleon@gmail.com">
+                acfromspace.deleon@gmail.com
+              </a>
             </p>
-            {/* href requires your link, className is the icon being used */}
-            {/* Figure out what exactly is <span className="label">Twitter</span> */}
-            {/* Answer: It's used mainly to tag inline elements, primarily for readability for the developer (but why not just use comments?) */}
+            {/* `href` requires your link, `className` is the icon being used. */}
             <li>
               <a
                 href="https://github.com/acfromspace"
