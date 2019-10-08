@@ -65,7 +65,7 @@ class Main extends React.Component {
               photography
             </a>
             ,{' '}
-            <a href="https://youtube.com/watch?v=hzmfGUfRsQo" target="_blank">
+            <a href="https://vimeo.com/215182503" target="_blank">
               videography
             </a>
             ,{' '}
