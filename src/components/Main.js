@@ -1,9 +1,7 @@
 import React from 'react'
-// import Link from 'gatsby-link'
 
-// For all incoming images, "Copy Image Location" from respective repo
-
-// <span className="image main"> creates it so the images are scaled accordingly (no need to photoshop)
+// For all incoming images, "Copy Image Location" from respective repo.
+// <span className="image main"> creates it so the images are scaled accordingly.
 
 class Main extends React.Component {
   render() {
@@ -30,36 +28,38 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">About</h2>
-          <p>Greetings traveler, I'm AC De Leon.</p>
+          <p>
+            Greetings traveler, I'm AC De Leon <b>(@acfromspace)</b>.
+          </p>
           <p>
             I'm a{' '}
             <a href="https://github.com/acfromspace" target="_blank">
-              front-end developer
+              software engineer
             </a>{' '}
-            (React/Node) and{' '}
+            and{' '}
             <a href="https://acfromspace.itch.io/" target="_blank">
               game developer
-            </a>{' '}
-            (Unity/Unreal). I've recently graduated from San Diego State
-            University with a B.S. in Computer Science. Currently I do freelance
-            software development, work with colleagues on our{' '}
+            </a>
+            . Recently graduated from San Diego State University with a B.S. in
+            Computer Science. Currently I do freelance software development,
+            participate in hackathons , fabricate{' '}
+            <a href="https://www.behance.net/acfromspace" target="_blank">
+              designs
+            </a>
+            , and manage a{' '}
             <a
-              href="https://github.com/AztecGameLab/AztecGameLaboratory"
+              href="https://github.com/acfromspace/infinitygauntlet"
               target="_blank"
             >
-              super cool React project
+              repo
             </a>{' '}
-            , and manage a{' '}
-            <a href="https://timestone.netlify.com" target="_blank">
-              blog
-            </a>{' '}
-            filled with software development and personal development in order
-            to document my learnings.
+            filled with knowledge I've procured in order to document my
+            learnings and experiences.
           </p>
           <p>
             I create{' '}
             <a
-              href="https://www.flickr.com/people/andrewthelion/"
+              href="https://www.flickr.com/people/acfromspace/"
               target="_blank"
             >
               photography
@@ -77,7 +77,7 @@ class Main extends React.Component {
             </a>
             , and do{' '}
             <a href="https://tinyurl.com/standardworkout" target="_blank">
-              powerlifting
+              bodybuilding
             </a>{' '}
             in my free time.
           </p>
@@ -298,11 +298,11 @@ class Main extends React.Component {
           <ul className="icons">
             <p>Feel free to contact me below, I would love to communicate.</p>
             <p>
-              <a href="mailto:aadeleon@sdsu.edu">aadeleon@sdsu.edu</a>
+              <a href="mailto:acfromspace.deleon@gmail.com">
+                acfromspace.deleon@gmail.com
+              </a>
             </p>
-            {/* href requires your link, className is the icon being used */}
-            {/* Figure out what exactly is <span className="label">Twitter</span> */}
-            {/* Answer: It's used mainly to tag inline elements, primarily for readability for the developer (but why not just use comments?) */}
+            {/* `href` requires your link, `className` is the icon being used. */}
             <li>
               <a
                 href="https://github.com/acfromspace"
@@ -312,14 +312,21 @@ class Main extends React.Component {
             </li>
             <li>
               <a
-                href="https://linkedin.com/in/ac-de-leon-81782980/"
+                href="https://linkedin.com/in/acfromspace/"
                 className="icon fa-linkedin"
                 target="_blank"
               />
             </li>
             <li>
               <a
-                href="https://www.flickr.com/people/andrewthelion/"
+                href="https://www.behance.net/acfromspace"
+                className="icon fa-behance"
+                target="_blank"
+              />
+            </li>
+            <li>
+              <a
+                href="https://www.flickr.com/people/acfromspace/"
                 className="icon fa-flickr"
                 target="_blank"
               />

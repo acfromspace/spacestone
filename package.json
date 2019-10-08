@@ -1,13 +1,12 @@
 {
   "name": "spacestone",
   "description": "Personal portal to realms of the cosmos",
-  "author": "AC De Leon <aadeleon@sdsu.edu>",
+  "author": "AC De Leon <acfromspace.deleon@gmail.com>",
   "repository": "https://github.com/acfromspace/spacestone",
   "version": "2.0.1",
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "__comment": "use yarn install (yarn in general), CTRL + C to terminate terminal process",
     "dev": "gatsby develop",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
