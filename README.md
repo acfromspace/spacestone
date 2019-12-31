@@ -21,8 +21,8 @@
     <a href="https://github.com/acfromspace/spacestone/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
-    <a href="https://www.repostatus.org/#unsupported">
-        <img src="https://www.repostatus.org/badges/latest/unsupported.svg" alt="Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired." /></a>
+    <a href="https://www.repostatus.org/#inactive">
+        <img src="https://www.repostatus.org/badges/latest/inactive.svg" alt="Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows." /></a>
 </p>
 
 <!-- FEATURES -->
