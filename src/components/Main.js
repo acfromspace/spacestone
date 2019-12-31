@@ -345,13 +345,6 @@ class Main extends React.Component {
                 target="_blank"
               />
             </li>
-            <li>
-              <a
-                href="https://twitter.com/acfromspace"
-                className="icon fa-twitter"
-                target="_blank"
-              />
-            </li>
           </ul>
           {close}
         </article>
