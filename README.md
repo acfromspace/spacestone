@@ -166,7 +166,7 @@ A quick look at the top-level files and directories you'll see in this project.
 ```
 
 1. **`node_modules/`**: Location where [Node.js](https://nodejs.org/en/) packages are installed via [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/en/).
-2. **`src/`**: All development usually occurs here. “src” is a convention for “source code”.
+2. **`src/`**: All development usually occurs here. `src` is a convention for “source code”.
 3. **`static/`**: HTML dependencies.
 4. **`.babelrc`**: This file enables to write modern JavaScript that will be "transpiled" to widely-supported Javascript. Think of it as a language translator for all devices that will see your website.
 5. **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
