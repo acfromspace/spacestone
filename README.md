@@ -31,7 +31,7 @@
   <img src="https://user-images.githubusercontent.com/10361542/50405065-14e22600-0764-11e9-9cb0-c59e0d0072d1.gif">
 </p>
 
-[_spacestone_](https://spacestone.netlify.com) is an entry portal website with the following features:
+[_spacestone_](https://spacestone.netlify.com) is a website with the following features:
 
 - **Blazing fast loading thanks to [Gatsby](https://www.gatsbyjs.org/).** Get all the benefits of static websites with none of the limitations. Gatsby sites are fully functional React apps, so you can create high-quality, dynamic web apps, from blogs to ecommerce sites to user dashboards.
 
