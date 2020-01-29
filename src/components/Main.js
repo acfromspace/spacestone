@@ -40,9 +40,9 @@ class Main extends React.Component {
             <a href="https://acfromspace.itch.io/" target="_blank">
               game developer
             </a>
-            . Recently graduated from San Diego State University with a B.S. in
-            Computer Science. Currently I do freelance software development,
-            participate in hackathons , fabricate{' '}
+            . Graduated from San Diego State University with a B.S. in Computer
+            Science. Currently I do software development for a company,
+            participate in hackathons, fabricate{' '}
             <a href="https://www.behance.net/acfromspace" target="_blank">
               designs
             </a>

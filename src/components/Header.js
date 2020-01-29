@@ -7,14 +7,14 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        {/* Main title everyone sees */}
+        {/* Main title everyone sees. */}
         <h1>AC De Leon</h1>
-        <p>Computer Science Graduate & Photographer</p>
+        <p>Software Engineer & Photographer</p>
       </div>
     </div>
     <nav>
       <ul>
-        {/* Listing of all sub-menus */}
+        {/* Listing of all sub-menus. */}
         <li>
           <a
             href="javascript:;"
